@@ -1,4 +1,4 @@
-# Reprograma-Curso-Completo
+# Reprograma Curso Completo
 
 ### Todas as aulas da Reprograma Turma 15 em um só Repositório
 
@@ -6,6 +6,7 @@
  
   * 👉 [Título](#📌-título)
   * 👉 [Descrição](#✒️-descrição)
+  * 👉 [Status](#⏱️-status)
   * 👉 [Funcionalidade](#🔨-funcionalidade-🛠️)
   * 👉 [Menu das Aulas](#menu-das-aulas)
   * 👉 [Autor](#🏆-autor)
@@ -23,7 +24,11 @@ ___
 #### Todas as aulas da Reprograma Turma 15 em um só Repositório para que fique mais fácil buscar pelos conteúdos ja vistos e melhorar nossa performance e conhecimento!!
 
 ___
+## ⏱️ Status
 
+>  🚧 Em construção 🚧
+
+___
 ## 🔨 Funcionalidade 🛠️
 ### Rever todos as aulas e lembras o que aprendemos em cada uma delas de forma detalhada e documentada. Em cada uma das pastas das aulas voce encontrará:
 
@@ -53,6 +58,17 @@ ___
   </div>
 </details>
 
+___
+## ⚙️ Tudo o que Aprendemos
+
+- [Git](link)
+- [Lógica de Programação](link)
+- [Javascript](link)
+- [Node.js](link)
+- [API](link)
+- [](link)
+- [](link)
+- [](link)
 ___
 ## 🏆 Autor 
 <div align="center">
