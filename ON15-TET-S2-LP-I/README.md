@@ -3,7 +3,10 @@
 
 ## Turma 15 - Todas Em Tech - Semana 02 - Lógica de Programação - I 👩‍💻
 
-### 👩‍🏫 [Professora: Lilit Bandeira](https://github.com/lilitbandeira) ✍🏽
+ 
+| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115 style=border-radius:50%><br><sub>👩‍🏫 Professora: Lilit Bandeira ✍🏽</sub>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
+| :---: | :---: | :---: | 
+
 ___
 
 <details>

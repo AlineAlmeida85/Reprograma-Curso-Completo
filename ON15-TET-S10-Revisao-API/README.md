@@ -2,8 +2,8 @@
 
 ## Turma 15 - Todas Em Tech - Semana 10 - Revisão API 👩‍💻
 
-### 👩‍🏫 [Professora: Bea Ramerindo](https://github.com/isjanebia) ✍🏽
-___
+| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/89533112?v=4" width=115 style=border-radius:50%><br><sub>👩‍🏫  Professora: Bea Ramerindo ✍🏽</sub>](https://github.com/beatrizramerindo) |  [<br><sub></sub>]() |
+| :---: | :---: | :---: | 
 
 <details>
   <summary>

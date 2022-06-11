@@ -2,8 +2,8 @@
 
 ## Turma 15 - Todas Em Tech - Semana 11 - Projeto Guiado II 👩‍💻
 
-### 👩‍🏫 [Professora: Hannah Freitas](https://github.com/HannahFreitas) ✍🏽
-___
+| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/80156310?v=4" width=115 style=border-radius:50%><br><sub>👩‍🏫  Professora: Hannah Freitas ✍🏽</sub>](https://github.com/HannahFreitas) |  [<br><sub></sub>]() |
+| :---: | :---: | :---: | 
 
 <details>
   <summary>

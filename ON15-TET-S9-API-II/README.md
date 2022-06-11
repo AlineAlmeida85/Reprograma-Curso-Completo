@@ -2,8 +2,8 @@
 
 ## Turma 15 - Todas Em Tech - Semana 09 - API II 👩‍💻
 
-### 👩‍🏫 [Professora: Ana Luiza Sampaio](https://github.com/analuizasampaio) ✍🏽
-___
+| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115 style=border-radius:50%><br><sub>👩‍🏫  Professora: Ana Luiza Sampaio ✍🏽</sub>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
+| :---: | :---: | :---: | 
 
 <details>
   <summary>
