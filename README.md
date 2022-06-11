@@ -16,13 +16,13 @@ ___
 
 ## 📌 Título
 
-#### Reprograma-Curso-Completo
+### Reprograma-Curso-Completo
 [Playlist do curso](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw)
 
 ___
 ## ✒️ Descrição
 
-#### Todas as aulas da Reprograma Turma 15 em um só Repositório para que fique mais fácil buscar pelos conteúdos ja vistos e melhorar nossa performance e conhecimento!!
+### Todas as aulas da Reprograma Turma 15 em um só Repositório para que fique mais fácil buscar pelos conteúdos ja vistos e melhorar nossa performance e conhecimento!!
 
 ___
 ## ⏱️ Status
@@ -81,7 +81,7 @@ ___
 ___
 ⌨️ com ❤️ por [Aline Almeida](https://github.com/AlineAlmeida85) 😊
 
-##### Espero que te agrade! 
+### Espero que te agrade! 
 
 
 
