@@ -9,6 +9,7 @@
   * 👉 [Status](#⏱️-status)
   * 👉 [Funcionalidade](#🔨-funcionalidade-🛠️)
   * 👉 [Menu das Aulas](#menu-das-aulas)
+  * 👉 [Tudo o que Aprendemos](#⚙️-tudo-o-que-aprendemos)
   * 👉 [Autor](#🏆-autor)
 
 ___
