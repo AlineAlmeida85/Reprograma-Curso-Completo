@@ -2,7 +2,7 @@
 
 ## Turma 15 - Todas Em Tech - Semana 01 - GIT 👩‍💻
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/33252729?v=4" width=115 style=border-radius:50%><br><sub>👩‍🏫  Professora: Amanda Silva ✍🏽</sub>](https://github.com/oskojess) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/33252729?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫  Professora: Amanda Silva ✍🏽</h2>](https://github.com/oskojess) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 <details>

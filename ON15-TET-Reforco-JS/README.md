@@ -2,7 +2,7 @@
 
 ## Turma 15 - Todas Em Tech - Reforço - JS 👩‍💻
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115 style=border-radius:50%><br><sub>👩‍🏫 Professora: Lilit Bandeira ✍🏽</sub>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫 Professora: Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 <details>

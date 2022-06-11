@@ -27,10 +27,10 @@ ___
 ## 🔨 Funcionalidade 🛠️
 ### Rever todos as aulas e lembras o que aprendemos em cada uma delas de forma detalhada e documentada. Em cada uma das pastas das aulas voce encontrará:
 
-- `1 ` [Links com conteúdos da aula](link)  ✔️
-- `2 ` [O que foi visto na Aula](link) ✔️
-- `3 ` [Explicação detalhada da aula](link) ✔️
-- `4 ` [Conteúdos adicionais e materiais de apoio](link) ✔️
+- `1` [Links com conteúdos da aula](link)  ✔️
+- `2` [O que foi visto na Aula](link) ✔️
+- `3` [Explicação detalhada da aula](link) ✔️
+- `4` [Conteúdos adicionais e materiais de apoio](link) ✔️
 ___
 
 ## Menu das Aulas

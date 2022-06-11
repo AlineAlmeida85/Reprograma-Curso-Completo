@@ -2,7 +2,7 @@
 
 ## Turma 15 - Todas Em Tech - Semana 08 - API I 👩‍💻
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115 style=border-radius:50%><br><sub>👩‍🏫  Professora: Ana Luiza Sampaio ✍🏽</sub>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫  Professora: Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 <details>
