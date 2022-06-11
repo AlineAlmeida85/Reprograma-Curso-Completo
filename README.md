@@ -39,7 +39,7 @@ ___
   <summary><span></span></summary>
   <div>
     <h4>Turma 15 - Todas Em Tech</h4>
-    <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/ON15-TET-S1-GIT">ON15-TET-S1-GIT</a><br/>
+    <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/ON15-TET-S1-GIT" target="blank">ON15-TET-S1-GIT</a><br/>
     <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/ON15-TET-S2-LP-I">ON15-TET-S2-LP-I</a><br/>
     <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/ON15-TET-S3-LP-II">ON15-TET-S3-LP-II</a><br/>
     <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/ON15-TET-S4-LP-III">ON15-TET-S4-LP-III</a><br/>
