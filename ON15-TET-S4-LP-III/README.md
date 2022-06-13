@@ -183,12 +183,3 @@ ___
   * 👉 [**Métodos de Arrays** ](README2.md)
   * 👉 [**Spread/rest** ](README3.md)
 
-
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-
-## ✔️ Objetos
