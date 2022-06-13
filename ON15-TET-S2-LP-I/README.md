@@ -4,7 +4,7 @@
 ## Turma 15 - Todas Em Tech - Semana 02 - Lógica de Programação - I 👩‍💻
 
  
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫 Professora: Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora:</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 ___
@@ -21,7 +21,7 @@ ___
 </details>
 
 ___
-##  👀 O que foi visto na Aula? 🛠️
+## 🛠️ O que foi visto na Aula? 👀
 <details>
     <summary>
       <strong>➝ Backend e Frontend ✔️</strong>
@@ -223,99 +223,15 @@ ___
 </details>
 
 ___
-##  🔨 Exemplos 🛠️
 
-  * 👉 [**If / else**](#✔️-if--else)
-  * 👉 [**Switch / case**](#✔️-switch--case)
+##  🔨 Conteúdos da Aula detalhados 🛠️
 
-___
-## ✔️ **If / else**
-
-#### A condicional if é uma estrutura condicional que executa a afirmação, dentro do bloco, se determinada condição for verdadeira. Se for falsa, executa as afirmações dentro de else. (MDN) Podemos encadear vários ifs com else if
-```javascript
-const horario = 7; // valor esperado entre 0 e 23
-```
-```javascript
-if (horario < 12) {
-  console.log("dia");
-} else {
-  console.log("noite");
-}
-```
-#### Podemos reduzir ao operador ternário:
-```javascript
-horario < 12 ? console.log("dia") : console.log("noite");
-```
-
-#### Podemos encadear `else if`:
-```javascript
-if (horario >= 0 && horario < 6) { 
-    console.log("madrugada");
-} else if (horario >= 6 && horario < 12) { 
-    console.log("manhã");
-} else if (horario >= 12 && horario < 18) {
-    console.log("tarde");
-} else if (horario >= 18 &&  horario < 24) {
-    console.log("noite");
-} else {
-    console.log("horário inválido"); 
-}
-```
-
-___
-## ✔️ **Switch / case**
-
-#### A condicional switch avalia uma expressão, combinando o valor da expressão para um cláusula case, e executa as instruções associadas ao case. (MDN) Passamos o break para sair da condicional quando um case é correspondido e sua instrução executada. Caso nenhum case seja correspondido podemos usar a cláusula default (opcional)
-```javascript
-let regiao = 'centro-oeste'
-
-switch (regiao) {
-    case 'nordeste':
-        console.log('possui 9 estados');
-        break;
-    case 'norte':
-        console.log('possui 7 estados');
-        break;
-    case 'centro-oeste':
-        console.log('possui 3 estados e DF');
-        break;
-    case 'sudeste':
-        console.log('possui 4 estados');
-        break;
-    case 'sul':
-        console.log('possui 3 estados');
-        break;
-}
-```
+  * 👉 [**Dados** ](README3.md)
+  * 👉 [**Variáveis** ](README4.md)
+  * 👉 [**Operadores** ](README5.md)
+  * 👉 [**If / else** ](README1.md)
+  * 👉 [**Switch / case** ](README2.md)
 
 
 
 
-___
-##  🔨 Casos de como e quando usar 🛠️
-
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-
-## ✔️ **** 
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-```git
-git clone 
-```

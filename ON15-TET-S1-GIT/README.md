@@ -20,7 +20,7 @@
 </details>
 
 ___
-##  👀 O que foi visto na Aula? 🛠️
+## 🛠️ O que foi visto na Aula? 👀
 <details>
     <summary>
       <strong>➝ Introdução a Programação ✔️</strong>
