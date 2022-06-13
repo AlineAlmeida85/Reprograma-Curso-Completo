@@ -318,18 +318,18 @@ ___
 ___
 ##  🔨 Casos de como e quando usar os comandos certos 🛠️
 
-  * 👉 [**CONFIGURAÇÃO** do **GIT**](README6.md)
-  * 👉 [**CRIAR** um repositório no **GITHUB**](README1.md)
-  * 👉 [**CRIAR** um Projeto para publicar no **GITHUB**](README2.md)
-  * 👉 [**PUBLICAR** um projeto numa página no **GITHUB**](README3.md)
-  * 👉 [**FORKAR** um projeto e alterá-lo](README4.md)
-  * 👉 [**BRANCHES**](README5.md)
-  * 👉 [**RESET** e **DIFF**](README7.md.md)
-  * 👉 [**PUSH** e **PULL**](README8.md)
-  * 👉 [**MERGE** e **REBASE**](README9.md)
-  * 👉 [**STASH**](README10.md)
-  * 👉 [**WORKFLOWS** com **GIT**](README11.md)
-  * 👉 [**PULL REQUEST**, **FEATURE BRANCH** e **RESOLVENDO CONFLITOS**](README12.md)
+  * 👉 [**CONFIGURAÇÃO** do **GIT**](readme/README6.md)
+  * 👉 [**CRIAR** um repositório no **GITHUB**](readme/README1.md)
+  * 👉 [**CRIAR** um Projeto para publicar no **GITHUB**](readme/README2.md)
+  * 👉 [**PUBLICAR** um projeto numa página no **GITHUB**](readme/README3.md)
+  * 👉 [**FORKAR** um projeto e alterá-lo](readme/README4.md)
+  * 👉 [**BRANCHES**](readme/README5.md)
+  * 👉 [**RESET** e **DIFF**](readme/README7.md.md)
+  * 👉 [**PUSH** e **PULL**](readme/README8.md)
+  * 👉 [**MERGE** e **REBASE**](readme/README9.md)
+  * 👉 [**STASH**](readme/README10.md)
+  * 👉 [**WORKFLOWS** com **GIT**](readme/README11.md)
+  * 👉 [**PULL REQUEST**, **FEATURE BRANCH** e **RESOLVENDO CONFLITOS**](readme/README12.md)
 
 
 
