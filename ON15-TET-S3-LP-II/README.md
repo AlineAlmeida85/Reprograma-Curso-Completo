@@ -151,5 +151,5 @@ ___
   * 👉 [**Estruturas de repetição - for... of** ](README4.md)
   * 👉 [**Funções e Arrow Function** ](README5.md)
   * 👉 [**Objetos** ](README6.md)
-## ✔️ Objetos
+
 

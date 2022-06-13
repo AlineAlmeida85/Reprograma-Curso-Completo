@@ -3,7 +3,7 @@
 ## Turma 15 - Todas Em Tech - Semana 04 - Lógica de Programação III 👩‍💻
 
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫  Professora: Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora:</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 <details>
@@ -179,28 +179,16 @@ ___
 ___
 ##  🔨 Casos de como e quando usar 🛠️
 
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-  * 👉 [**** ]()
+  * 👉 [**Arrays** ](README1.md)
+  * 👉 [**Métodos de Arrays** ](README2.md)
+  * 👉 [**Spread/rest** ](README3.md)
 
-## ✔️ **** 
 
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
 
 #### 
 <p align="center">
   <img alt="foto" title="foto" src=""/>
 </p>
 
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
 
-#### 
-```git
-git clone 
-```
+## ✔️ Objetos
