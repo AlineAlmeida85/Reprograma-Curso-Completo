@@ -1,5 +1,5 @@
 ## ✔️ `Switch / case`
-
+___
 #### A condicional switch avalia uma expressão, combinando o valor da expressão para um cláusula case, e executa as instruções associadas ao case. (MDN) Passamos o break para sair da condicional quando um case é correspondido e sua instrução executada. Caso nenhum case seja correspondido podemos usar a cláusula default (opcional)
 ```javascript
 let regiao = 'centro-oeste'

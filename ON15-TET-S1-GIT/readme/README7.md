@@ -1,5 +1,5 @@
-## `Reset` e `Diff`
-
+## ✔️ `Reset` e `Diff`
+___
 ### Como podemos voltar em estados anteriores ou resetar os nossos erros?
 
 #### Para voltar o arquivo para antes da edição utilizamos o comando:

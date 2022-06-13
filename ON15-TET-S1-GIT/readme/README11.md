@@ -1,5 +1,5 @@
-## `Workflows` com `Git`
-
+## ✔️`Workflows` com `Git`
+___
 ### Workflow é um termo inglês que significa fluxo de trabalho. Com os workflows do git trabalhamos de maneira mais consistente e produtiva.
 
 #### Workflows com Git

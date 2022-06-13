@@ -1,5 +1,5 @@
-## `Pull Request`, `Feature Branch` e `Resolvendo Conflitos`
-
+## ✔️`Pull Request`, `Feature Branch` e `Resolvendo Conflitos`
+___
 #### `Pull Request` (ou PR): Utilizado para solicitar o merge de uma branch em outra branch no nosso repositório remoto.
 #### Supondo que há mais de uma pessoa trabalhando no mesmo projeto, as duas alteraram esse projeto(cada uma na sua `branch`), sendo assim precisamos subir essas alterações no `GitHub`, porém vai gerar um conflito entre essas alterações.Vamos ao passo a passo de como resolver.
 ```git

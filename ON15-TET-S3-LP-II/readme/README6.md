@@ -1,5 +1,5 @@
-## ✔️ Objetos
-
+## ✔️ `Objetos`
+___
 ### Um objeto é uma coleção de dados e/ou funcionalidades relacionadas (que geralmente consistem em diversas variáveis e funções — que são chamadas de propriedades e métodos quando estão dentro de objetos). (MDN) Os objetos são formados por chave e valor.
 
 ### Criando um objeto:

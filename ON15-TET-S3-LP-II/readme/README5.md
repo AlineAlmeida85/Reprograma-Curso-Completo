@@ -1,5 +1,5 @@
 ## ✔️ `Funções` e `Arrow Function`
-
+___
 #### É um bloco de comandos a serem executados quando solicitado, através de uma chamada direta ou em decorrência de um evento; Uma função é o menor bloco de execução/construção no JavaScript, um conjunto de instruções que executa uma tarefa ou calcula um valor; Uma função quando é chamada, pausa a thread (script) para realizar seu processamento, depois retorna o valor final e continua a execução da linha de código na sequência;
 ___
 ### Declarando uma função

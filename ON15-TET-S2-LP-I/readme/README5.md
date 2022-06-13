@@ -1,5 +1,5 @@
-### Os operadores são fundamentais para realizar qualquer operação numa linguagem de programação, sejam operações matemáticas, de comparação ou lógicas.
-
+## ✔️ Os operadores são fundamentais para realizar qualquer operação numa linguagem de programação, sejam operações matemáticas, de comparação ou lógicas.
+___
 ## Tipos
 ### Binários:
 ```javascript

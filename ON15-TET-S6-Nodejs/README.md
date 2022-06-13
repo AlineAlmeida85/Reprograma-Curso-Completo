@@ -2,7 +2,7 @@
 
 ## Turma 15 - Todas Em Tech - Semana 06 - Nodejs 👩‍💻
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫  Professora: Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 <details>
@@ -25,7 +25,7 @@ ___
     <summary>
       <strong>➝ TODO list ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -73,30 +73,10 @@ ___
 
 
 ___
-##  🔨 Casos de como e quando usar 🛠️
+##  🔨 Conteúdos da Aula detalhados 🛠️
 
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-  * 👉 [**** ]()
+  * 👉 [**Como funciona a internet?**](README1.md)
+  * 👉 [****]()
+  * 👉 [****]()
 
-## ✔️ **** 
 
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-```git
-git clone 
-```

@@ -1,6 +1,7 @@
-## Podemos chamar também de Loop, laço ou método de iteração. Trata-se de comandos que mantém um trecho de código sendo executado até que uma condição de parada seja satisfeita;
+## ✔️ Podemos chamar também de Loop, laço ou método de iteração. Trata-se de comandos que mantém um trecho de código sendo executado até que uma condição de parada seja satisfeita;
 ## Sua principal função é possibilitar que possamos repetir um trecho de código sem a necessidade de escrever várias vezes esse trecho, para isso basta ter um ponto de partida e um ponto de chegada para a repetição;
-### for
+___
+### `for`
 #### É uma estrutura de repetição com variável de controle, usada quando se sabe exatamente o ponto de partida e de chegada, o bloco será repetido `enquanto` a condição for `verdadeira`, ou seja, para quando a condição retorne `false`.
 ```javascript
   for (expressaoInicial; condicao; incremento) {

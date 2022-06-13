@@ -2,7 +2,7 @@
 
 ## Turma 15 - Todas Em Tech - Semana 05 - Projeto Guiado I 👩‍💻
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/80156310?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫  Professora: Hannah Freitas ✍🏽</h2>](https://github.com/HannahFreitas) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/80156310?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫 Hannah Freitas ✍🏽</h2>](https://github.com/HannahFreitas) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 <details>
@@ -101,30 +101,11 @@ ___
 </details>
 
 ___
-##  🔨 Casos de como e quando usar 🛠️
+##  🔨 Conteúdos da Aula detalhados 🛠️
 
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-  * 👉 [**** ]()
+  * 👉 [**Laços** ](README1.md)
+  * 👉 [**Objetos** ](README2.md)
+  * 👉 [**Arrays** ](README3.md)
+  * 👉 [**Objetos** e **Classes** ](README4.md)
+  * 👉 [**Métodos** ](README5.md)
 
-## ✔️ **** 
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-```git
-git clone 
-```

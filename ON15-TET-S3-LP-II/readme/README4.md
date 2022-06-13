@@ -1,4 +1,5 @@
 ## ✔️ `for... of` 
+___
 ### É um laço que percorre objetos iterativos, sendo o mais comum a array, chamando uma função para cada valor deste objeto;
 ```javascript
   for (variavel of iteravel) {

@@ -1,4 +1,5 @@
-## `Variáveis`
+## ✔️ `Variáveis`
+___
 ### Uma variável é um símbolo que referencia um espaço na memória do computador utilizado para armazenar dados que serão utilizados pelo programa em questão.
 #### Para criar variáveis no JavaScript seguimos algumas regras importantes, a primeira e mais importante é que usamos uma das palavras reservadas var, let ou const para reservar o espaço na memória onde o dado será armazenado.
 ```javascript

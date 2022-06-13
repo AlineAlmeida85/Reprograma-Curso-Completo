@@ -1,4 +1,5 @@
-## `Merge` e `Rebase`
+## ✔️ `Merge` e `Rebase`
+___
 ### Unificação de `branches`
 ___
 #### Utilizamos o `merge` e `rebase` para unir `branches`

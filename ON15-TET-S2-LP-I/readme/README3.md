@@ -1,4 +1,4 @@
-## `Dados`
+## ✔️`Dados`
 
 ___
 ### Os `dados `são basicamente são um instrumento importante, pois lidamos com dados o tempo todo. A `Entrada`, `Processamento` e `Saída` também se referem a `dados`.

@@ -1,4 +1,5 @@
-## while
+## ✔️ `while`
+___
 ### Tem um funcionamento muito parecido com o do for, de executar sua intrução desde que a condição seja verdadeira, é sempre possível substituir o uso do for pelo do while, sendo o critério obter o código de melhor leitura, o while está mais atrelado à condição ser atendida enquanto o for é mais usado para iterar com contadores.
 ```javascript
   while (condicao) {

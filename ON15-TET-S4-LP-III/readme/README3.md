@@ -1,4 +1,5 @@
-## ✔️Spread/rest
+## ✔️ `Spread/rest`]
+___ 
 ### Spread syntax
 #### Sintaxe de Espalhamento permite que um objeto iterável, como uma expressão de array ou uma string seja expandido para ser usado onde zero ou mais argumentos (para chamadas de funções) ou elementos (para arrays literais) são esperados, ou que um objeto seja expandido onde zero ou mais pares propriedade:valor (para objetos literais) são esperados. (MDN)
 #### Exemplos de aplicações

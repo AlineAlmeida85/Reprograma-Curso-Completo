@@ -4,7 +4,7 @@
 ## Turma 15 - Todas Em Tech - Semana 02 - Lógica de Programação - I 👩‍💻
 
  
-| [<br><sub></sub>]() |  [<h2>Professora:</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 ___
