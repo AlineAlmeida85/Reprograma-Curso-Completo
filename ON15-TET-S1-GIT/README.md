@@ -2,7 +2,7 @@
 
 ## Turma 15 - Todas Em Tech - Semana 01 - GIT 👩‍💻
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/33252729?v=4" width=115><br><h2>👩‍🏫  Professora: Amanda Silva ✍🏽</h2>](https://github.com/oskojess) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora:</h2><img src="https://avatars.githubusercontent.com/u/33252729?v=4" width=115><br><h2>👩‍🏫  Amanda Silva ✍🏽</h2>](https://github.com/oskojess) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 <details>
@@ -50,7 +50,7 @@ ___
     <summary>
       <strong>➝ Algoritmos ✔️</strong>
     </summary>
-    <div align="center">         
+    <div align="left">         
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -75,7 +75,7 @@ ___
     <summary>
       <strong>➝ Linguagens de Programação ✔️</strong>
     </summary>
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -110,7 +110,7 @@ ___
     <summary>
       <strong>➝ Linhas de Comando ✔️</strong>
     </summary>
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -135,7 +135,7 @@ ___
     <summary>
       <strong>➝ Comandos básicos ✔️</strong>
     </summary>
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -198,39 +198,9 @@ ___
 
 <details>
     <summary>
-      <strong>➝ Versionamento de código ✔️</strong>
-    </summary>
-    <div align="center">        
-      <table border=1>             
-        <tr>
-          <td align="center">👉</td>                
-          <td>Controle de versão</td>                
-          <td align="center">✅</td>
-        </tr>        
-      </table>               
-    </div>
-</details>
-
-<details>
-    <summary>
-      <strong>➝ Git ✔️</strong>
-    </summary>
-    <div align="center">        
-      <table border=1>             
-        <tr>
-          <td align="center">👉</td>                
-          <td>Ferramentas de versionamento e GitHub</td>                
-          <td align="center">✅</td>
-        </tr>        
-      </table>               
-    </div>
-</details>
-
-<details>
-    <summary>
       <strong>➝ Git Conceitos Básicos ✔️</strong>
     </summary>
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -290,29 +260,8 @@ ___
     <summary>
       <strong>➝ Comandos iniciais detalhado ✔️</strong>
     </summary>
-    <div align="center">        
-      <table border=1>             
-        <tr>
-          <td align="center">👉</td>                
-          <td>it init : inicializa o git no repositório local</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git add : adiciona um arquivo modificado ao stagging (área temporária)</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git status : mostra os status dos arquivos modificados</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git commit -m "mensagem" : cria um commit, avisa o git que queremos gerar um novo estado com os arquivos</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
+    <div align="left">        
+      <table border=1><tr>
           <td align="center">👉</td>                
           <td>git pull : puxa as atualizações mais recente (remoto -> local)</td>                
           <td align="center">✅</td>
@@ -331,42 +280,7 @@ ___
           <td align="center">👉</td>                
           <td>git checkout -- nome-arquivo : descarta as alterações locais do arquivo informado</td>                
           <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git log: Altera/ consulta commits</td>                
-          <td align="center">✅</td>
-        </tr>
-         <tr>
-          <td align="center">👉</td>                
-          <td>git branch: cria uma nova branch</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git checkout -b nome-da-branch</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git checkout nome-da-branch: altera de branch</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git branch -d nome-da-branch</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git push origin --delete nome-da-branch</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git merge nome-da-branch: unir duas branches</td>                
-          <td align="center">✅</td>
-        </tr>  
+        </tr> 
       </table>               
     </div>
 </details>
@@ -375,7 +289,7 @@ ___
     <summary>
       <strong>➝ Git, sobre forks ✔️</strong>
     </summary>
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -404,69 +318,21 @@ ___
 ___
 ##  🔨 Casos de como e quando usar os comandos certos 🛠️
 
-  * 👉 [**Instalação** do **Git**](README6.md)
+  * 👉 [**CONFIGURAÇÃO** do **Git**](README6.md)
   * 👉 [**CRIAR** um repositório no **GitHub**](README1.md)
   * 👉 [**CRIAR** um Projeto para publicar no **GitHub**](README2.md)
-  * 👉 [**Disponibilizar** um projeto numa página no **GitHub**](README3.md)
+  * 👉 [**PUBLICAR** um projeto numa página no **GitHub**](README3.md)
   * 👉 [**FORKAR** um projeto e alterá-lo](README4.md)
-  * 👉 [**ATUALIZAR** um repositório **Forkado**]()
   * 👉 [**BRANCHES**](README5.md)
+  * 👉 [**RESET** e **DIFF**](README7.md.md)
+  * 👉 [**PUSH** e **PULL**](README8.md)
+  * 👉 [**MERGE** e **REBASE**](README9.md)
+  * 👉 [**STASH**](README10.md)
+  * 👉 [**Workflows** com Git](README11.md)
+  * 👉 [**Pull Request**, **Feature Branch** e **Resolvendo Conflitos**](README12.md)
 
 
 
-
-
-
-___
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Depois de ter concluido o projeto, digite:
-```git
-git add .
-```
-#### para incluir as alterações feitas
-#### agora digite:
-```git
-git commit -m "mensagem"
-```
-#### e entre aspas digite uma mensagem de sua preferência para justificar o commit
-#### na sequencia digite:
-```git
-git push origin 
-```
-#### e digite o nome que voce deu para a sua branch
-#### agora digite:
-```git
-git checkout main
-```
-#### agora digite:
-```git
-git merge 
-```
-#### e digite o nome que voce deu para a sua branch
-#### e por ultimo digite:
-```git
-git push -u  
-```
-#### e digite o nome que voce deu para a sua branch e seguido de 
-```git
-git push -u  
-```
-#### e pronto!
-___
-## ✔️ Atualizar um repositório **Forkado**
 
 
 
