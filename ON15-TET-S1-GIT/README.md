@@ -114,17 +114,17 @@ ___
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
-          <td>Command Power / CMD: interpretador Windows, simples e funcional.</td>                
+          <td><strong>Command Power / CMD:</strong> interpretador Windows, simples e funcional.</td>                
           <td align="center">✅</td>
         </tr>
         <tr>
           <td align="center">👉</td>                
-          <td>PowerShell: criado pela Microsoft, é bem mais robusto com capacidade maior de programação</td>                
+          <td><strong>PowerShell:</strong> criado pela Microsoft, é bem mais robusto com capacidade maior de programação</td>                
           <td align="center">✅</td>
         </tr>
         <tr>
           <td align="center">👉</td>                
-          <td>Bash: Criado como software livre, é um Unix shell e linguagem de comando, assim como o anterior</td>                
+          <td><strong>Git Bash:</strong> Criado como software livre, é um Unix shell e linguagem de comando, assim como o anterior</td>                
           <td align="center">✅</td>
         </tr>
       </table>               
@@ -185,6 +185,11 @@ ___
         <tr>
           <td align="center">👉</td>                
           <td>whoami => identifica usuário que esta logado</td>                
+          <td align="center">✅</td>
+        </tr>
+        <tr>
+          <td align="center">👉</td>                
+          <td>touch => cria um arquivo</td>                
           <td align="center">✅</td>
         </tr>
       </table>               
@@ -283,36 +288,6 @@ ___
 
 <details>
     <summary>
-      <strong>➝ Comandos Iniciais ✔️</strong>
-    </summary>
-    <div align="center">        
-      <table border=1>             
-        <tr>
-          <td align="center">👉</td>                
-          <td>git init</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git add .</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git commit</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git push</td>                
-          <td align="center">✅</td>
-        </tr>
-      </table>               
-    </div>
-</details>
-
-<details>
-    <summary>
       <strong>➝ Comandos iniciais detalhado ✔️</strong>
     </summary>
     <div align="center">        
@@ -334,7 +309,7 @@ ___
         </tr>
         <tr>
           <td align="center">👉</td>                
-          <td>git commit -m "mensagem" : cria um commit</td>                
+          <td>git commit -m "mensagem" : cria um commit, avisa o git que queremos gerar um novo estado com os arquivos</td>                
           <td align="center">✅</td>
         </tr>
         <tr>
@@ -356,7 +331,12 @@ ___
           <td align="center">👉</td>                
           <td>git checkout -- nome-arquivo : descarta as alterações locais do arquivo informado</td>                
           <td align="center">✅</td>
-        </tr>        
+        </tr>
+        <tr>
+          <td align="center">👉</td>                
+          <td>git log: Altera/ consulta commits</td>                
+          <td align="center">✅</td>
+        </tr>   
       </table>               
     </div>
 </details>
@@ -398,63 +378,13 @@ ___
 
 <details>
     <summary>
-      <strong>➝ Git, conceitos básicos ✔️</strong>
-    </summary>
-    <div align="center">        
-      <table border=1>             
-        <tr>
-          <td align="center">👉</td>                
-          <td>git init</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git add ou git add nome-do-arquivo</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git commit -m "mensagem do commit"</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git status</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git remote add origin url-do-repo ou ssh-do-repo</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git remote -v</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git push origin nome-da-branch</td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr>
-          <td align="center">👉</td>                
-          <td>git clone url-do-repo</td>                
-          <td align="center">✅</td>
-        </tr>
-      </table>               
-    </div>
-</details>
-
-<details>
-    <summary>
       <strong>➝ Git, sobre branches ✔️</strong>
     </summary>
     <div align="center">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
-          <td>git branch</td>                
+          <td>git branch: cria uma nova branch</td>                
           <td align="center">✅</td>
         </tr>
         <tr>
@@ -464,7 +394,7 @@ ___
         </tr>
         <tr>
           <td align="center">👉</td>                
-          <td>git checkout nome-da-branch</td>                
+          <td>git checkout nome-da-branch: altera de branch</td>                
           <td align="center">✅</td>
         </tr>
         <tr>
@@ -479,7 +409,7 @@ ___
         </tr>
         <tr>
           <td align="center">👉</td>                
-          <td>git merge nome-da-branch</td>                
+          <td>git merge nome-da-branch: unir duas branches</td>                
           <td align="center">✅</td>
         </tr>
       </table>               
@@ -515,6 +445,8 @@ ___
       </table>               
     </div>
 </details>
+
+
 
 
 ___
