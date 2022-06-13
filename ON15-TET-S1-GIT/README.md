@@ -318,18 +318,18 @@ ___
 ___
 ##  🔨 Casos de como e quando usar os comandos certos 🛠️
 
-  * 👉 [**CONFIGURAÇÃO** do **Git**](README6.md)
-  * 👉 [**CRIAR** um repositório no **GitHub**](README1.md)
-  * 👉 [**CRIAR** um Projeto para publicar no **GitHub**](README2.md)
-  * 👉 [**PUBLICAR** um projeto numa página no **GitHub**](README3.md)
+  * 👉 [**CONFIGURAÇÃO** do **GIT**](README6.md)
+  * 👉 [**CRIAR** um repositório no **GITHUB**](README1.md)
+  * 👉 [**CRIAR** um Projeto para publicar no **GITHUB**](README2.md)
+  * 👉 [**PUBLICAR** um projeto numa página no **GITHUB**](README3.md)
   * 👉 [**FORKAR** um projeto e alterá-lo](README4.md)
   * 👉 [**BRANCHES**](README5.md)
   * 👉 [**RESET** e **DIFF**](README7.md.md)
   * 👉 [**PUSH** e **PULL**](README8.md)
   * 👉 [**MERGE** e **REBASE**](README9.md)
   * 👉 [**STASH**](README10.md)
-  * 👉 [**Workflows** com Git](README11.md)
-  * 👉 [**Pull Request**, **Feature Branch** e **Resolvendo Conflitos**](README12.md)
+  * 👉 [**WORKFLOWS** com **GIT**](README11.md)
+  * 👉 [**PULL REQUEST**, **FEATURE BRANCH** e **RESOLVENDO CONFLITOS**](README12.md)
 
 
 

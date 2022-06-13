@@ -1,4 +1,4 @@
-## ✔️ **BRANCHES** 
+## ✔️ `Branches`
 ### `Branches` criam uma linha alternativa no tempo para trabalharmos em paralelo, permitem trabalharmos de forma independente e colaborativa, podemos realizar alterações na nossa `branch` e somente depois de finalizar é que podemos então juntar essas modificações na `main`
 
 ___

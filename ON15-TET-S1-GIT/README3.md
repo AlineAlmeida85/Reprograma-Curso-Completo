@@ -1,4 +1,4 @@
-## ✔️ **Disponibilizar** um projeto numa página no **GitHub**
+## ✔️ `Disponibilizar` um projeto numa página no `GitHub`
 ___
 
 #### Agora vamos aprender uma outra coisinha muito útil

@@ -1,4 +1,4 @@
-## ✔️ **FORKAR** um projeto e alterá-lo
+## ✔️ `Forkar` um projeto e alterá-lo
 ___
 
 #### **Lembrando que o Fork é uma cópia de um projeto para a sua conta do GitHub, é como se fosse uma xerox mesmo.** 

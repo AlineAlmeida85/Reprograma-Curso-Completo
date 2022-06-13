@@ -1,4 +1,4 @@
-## ✔️ **CRIAR** um Projeto para publicar no **GitHub**
+## ✔️ `Criar` um Projeto para publicar no `GitHub`
 ___
 
 #### Após o que fou feito acima, vamos continuar

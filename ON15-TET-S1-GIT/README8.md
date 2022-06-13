@@ -1,4 +1,4 @@
-## **PUSH** e **PULL**
+## `Push` e `Pull`
 
 #### Para enviar o código para o repositório remoto utilizamos o comando:
 ```git

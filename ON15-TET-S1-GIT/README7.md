@@ -1,4 +1,4 @@
-## **Reset** e **Diff**
+## `Reset` e `Diff`
 
 ### Como podemos voltar em estados anteriores ou resetar os nossos erros?
 

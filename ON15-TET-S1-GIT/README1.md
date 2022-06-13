@@ -1,4 +1,4 @@
-## ✔️ **CRIAR** um repositório no **GitHub**
+## ✔️ `Criar` um repositório no `GitHub`
 ___
 
 #### Na sua página inicial do `GitHub`, no canto superior tem um menu num botão que tem o sinal de `+`, clique nele e clique em `New repository`:

@@ -1,4 +1,4 @@
-## **STASH**
+## `Stash`
 
 #### Armazenar uma alteração temporária.
 ```git
