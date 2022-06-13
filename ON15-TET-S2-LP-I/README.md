@@ -26,7 +26,7 @@ ___
     <summary>
       <strong>➝ Backend e Frontend ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -46,7 +46,7 @@ ___
     <summary>
       <strong>➝ Lógica de Programação ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -76,7 +76,7 @@ ___
     <summary>
       <strong>➝ Linguagens de Programação que Aprenderemos✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -96,7 +96,7 @@ ___
     <summary>
       <strong>➝ Tipos de dados ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -131,7 +131,7 @@ ___
     <summary>
       <strong>➝ Objetos ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -146,7 +146,7 @@ ___
     <summary>
       <strong>➝ Variáveis ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -171,7 +171,7 @@ ___
     <summary>
       <strong>➝ Operadores ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -206,7 +206,7 @@ ___
     <summary>
       <strong>➝ Estruturas condicionais ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
