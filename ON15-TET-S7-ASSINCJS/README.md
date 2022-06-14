@@ -111,7 +111,7 @@ ___
 
 
 ___
-##  🔨 Casos de como e quando usar 🛠️
+##  🔨 Conteúdos da Aula detalhados 🛠️
 
   * 👉 [**Ciclo de vida das aplicações JavaScript**](readme/README1.md)
   * 👉 [**Callbacks**](readme/README2.md)

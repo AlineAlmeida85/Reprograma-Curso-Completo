@@ -2,7 +2,7 @@
 
 ## Turma 15 - Todas Em Tech - Semana 08 - API I 👩‍💻
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫  Professora: Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 <details>
@@ -22,6 +22,7 @@
 </details>
 
 ___
+
 ##  👀 O que foi visto na Aula? 🛠️
 <details>
     <summary>
@@ -31,88 +32,65 @@ ___
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
-          <td></td>                
+          <td>Node.js</td>                
           <td align="center">✅</td>
         </tr>
         <tr> 
           <td align="center">👉</td>
-          <td></td>                
+          <td>Gerenciadores de pacotes</td>                
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                
+          <td>Dependências</td>                
           <td align="center">✅</td>
         </tr>
-	<tr>    
+	      <tr>    
           <td align="center">👉</td>            
-          <td></td>                
+          <td>Nosso primeiro servidor</td>                
           <td align="center">✅</td>
         </tr>
-	<tr>    
+	      <tr>    
           <td align="center">👉</td>            
-          <td></td>                
-          <td align="center">✅</td>
-        </tr>
-      </table>               
-    </div>
-</details>
-
-<details>
-    <summary>
-      <strong>➝  ✔️</strong>
-    </summary>    
-    <div align="center">        
-      <table border=1>             
-        <tr>
-          <td align="center">👉</td>                
-          <td></td>                
-          <td align="center">✅</td>
-        </tr>
-        <tr> 
-          <td align="center">👉</td>
-          <td></td>                
+          <td>Nossa primeira API</td>                
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                
+          <td>path params e query params</td>                
           <td align="center">✅</td>
         </tr>
-	<tr>    
+        <tr>    
           <td align="center">👉</td>            
-          <td></td>                
+          <td>GET e POST</td>                
           <td align="center">✅</td>
-        </tr>
-	<tr>    
-          <td align="center">👉</td>            
-          <td></td>                
-          <td align="center">✅</td>
-        </tr>
+        </tr>        
       </table>               
     </div>
 </details>
-
-
 
 ___
-##  🔨 Casos de como e quando usar 🛠️
 
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-  * 👉 [**** ]()
+##  🔨 Conteúdos da Aula detalhados 🛠️
 
-## ✔️ **** 
+  * 👉 [**API, Web API e API REST**](readme/README1.md)
+  * 👉 [**CRUD**](readme/README2.md)
+  * 👉 [**Modelo Server-Client**](readme/README3.md)
+  * 👉 [**HTTP**](readme/README4.md)
+  * 👉 [**Node.js e os Gerenciadores de Pacotes**](readme/README5.md)
+  * 👉 [**Nosso Primeiro Servidor**](readme/README6.md)
+  * 👉 [**Dependências**](readme/README7.md)
+  * 👉 [**.gitignore**](readme/README8.md)
+
+
+
+## ✔️ `.gitignore`
 
 #### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
+
 
 #### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
+
 
 #### 
 <p align="center">
@@ -121,5 +99,5 @@ ___
 
 #### 
 ```git
-git clone 
+
 ```
