@@ -18,7 +18,7 @@ console.log(Lilit);
 ```
 #### e o resultado foi:
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto01.png"/>
+  <img alt="foto" title="foto" src="../img/foto01.png"/>
 </p>
 
 #### perceba que no destaque da foto está escrito:
@@ -31,7 +31,7 @@ console.log("Lilit");
 ```
 #### o resultado é:
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto02.png"/>
+  <img alt="foto" title="foto" src="../img/foto02.png"/>
 </p>
 
 #### Como assim?
@@ -62,7 +62,7 @@ console.log(`Ela é a ${nome}`);
 ```
 #### resultado: 
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto03.png"/>
+  <img alt="foto" title="foto" src="../img/foto03.png"/>
 </p>
 
 #### Ou seja, criei uma variável que recebe o valor de `"Lilit Bandeira"`, e quando eu chamo o `console` com a variável `nome`, ele me traz o valor da variável que é `"Lilit Bandeira"`.

@@ -16,7 +16,7 @@ for(let i = 0; i < 10; i++){
 ```
 #### Explicação Lógica: Enquanto `for(`, a variável `i` recebe o valor de `0`, `let i = 0;`, `i` é menor que `10`, ` i < 10;` e enquanto o `i` for menor que `10` irá incrementar `1` ao `i`, `; i++){` e no console irá mostrar o número i `console.log(`número ${i}`)`. O resultado será: 
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto01.png"/>
+  <img alt="foto" title="foto" src="../img/foto01.png"/>
 </p>
 
 #### porque conforme a explicação o `i` vale `0` e enquanto ele for `menor` que `10` irá aparecer no console e somar mais `1`.

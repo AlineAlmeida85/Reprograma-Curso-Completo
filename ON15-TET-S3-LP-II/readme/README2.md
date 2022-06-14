@@ -18,5 +18,5 @@ ___
 #### Explicação lógica: a variável i recebe o valor 1 `let i = 1;`, enquanto o i for menor ou igual a 3 `while(i <=3) {`, exibirá no console o valor de i `console.log(`número ${i}`)` e depois acrescentará 1 `i++`.
 #### Resultado: 
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto02.png"/>
+  <img alt="foto" title="foto" src="../img/foto02.png"/>
 </p>

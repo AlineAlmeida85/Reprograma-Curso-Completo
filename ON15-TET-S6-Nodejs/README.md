@@ -75,8 +75,10 @@ ___
 ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 
-  * 👉 [**Como funciona a internet?**](README1.md)
-  * 👉 [**Dev Front** | **Dev Back**](README2.md)
-  * 👉 [****]()
+  * 👉 [**Como funciona a internet?**](readme/README1.md)
+  * 👉 [**Dev Front** | **Dev Back**](readme/README2.md)
+  * 👉 [**API**](readme/README3.md)
+  * 👉 [**JSON**](readme/README4.md)
+  * 👉 [**Consumindo API**](readme/README5.md)
 
 

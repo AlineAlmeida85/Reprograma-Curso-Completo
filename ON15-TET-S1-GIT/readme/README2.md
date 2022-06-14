@@ -4,7 +4,7 @@ ___
 #### Após o que fou feito acima, vamos continuar
 #### Copie o código que foi gerado
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto06.png"/>
+  <img alt="foto" title="foto" src="../img/foto06.png"/>
 </p>
 
 #### Agora é o momento de começarmos a lidar com o `GitBash` ou `Git`.
@@ -14,7 +14,7 @@ ls
 ```
 #### para verificar em qual pasta exatamente ele está.
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto07.png"/>
+  <img alt="foto" title="foto" src="../img/foto07.png"/>
 </p>
 
 #### Verifique que apareceram muitas pastas, porém pretendo salvar meu projeto na pasta `Documents`, então vou navegar até ela, então vou digitar:
@@ -27,7 +27,7 @@ ls
 ```
 #### pois queria ver o que tem mais dentro da pasta (questão de curiosidade... rsrs), agora estou dentro da pasta que quero montar meu projeto
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto08.png"/>
+  <img alt="foto" title="foto" src="../img/foto08.png"/>
 </p>
 
 #### A partir daqui iremos começar, no `Git` digite:
@@ -36,12 +36,12 @@ git clone
 ```
 #### e cole o código que você copiou do `GitHub`
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto09.png"/>
+  <img alt="foto" title="foto" src="../img/foto09.png"/>
 </p>
 
 #### o `Git` irá clonar em alguns segundos
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto10.png"/>
+  <img alt="foto" title="foto" src="../img/foto10.png"/>
 </p>
 
 **Lembrando que no caso o nome do meu repositório é teste**
@@ -51,7 +51,7 @@ cd
 ```
 #### e na sequencia o nome do clone que no meu caso é `teste`
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto11.png"/>
+  <img alt="foto" title="foto" src="../img/foto11.png"/>
 </p>
 
 #### Perceba que, agora trocou a palavra que estava entre parênteses,  `(main)`, agora podemos abrir esse repositório para trabalharmos nele.
@@ -66,7 +66,7 @@ code .
 git add .
 ```
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto12.png"/>
+  <img alt="foto" title="foto" src="../img/foto12.png"/>
 </p>
 
 #### com esse comando estamos incluindo tudo o que foi feito no projeto ao clone feito, agora digite:
@@ -75,7 +75,7 @@ git commit -m
 ```
 #### e entre aspas `" "` digite uma mensagem para informar o commit
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto13.png"/>
+  <img alt="foto" title="foto" src="../img/foto13.png"/>
 </p>
 
 #### agora tudo pronto para a conclusão! Agora digite:
@@ -84,12 +84,12 @@ git push
 ```
 #### em poucos segundos... pronto! 
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto14.png"/>
+  <img alt="foto" title="foto" src="../img/foto14.png"/>
 </p>
 
 #### Atualize a página do repositório e aparecerá la tudo que foi feito
 <p align="center">
-  <img alt="foto" title="foto" src="./img/foto15.png"/>
+  <img alt="foto" title="foto" src="../img/foto15.png"/>
 </p>
 
 #### Pronto, o projeto ja está no `GitHub`
