@@ -2,7 +2,7 @@
 
 ## Turma 15 - Todas Em Tech - Semana 07 - Assíncrono JS 👩‍💻
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫 Professora: Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 <details>
@@ -113,28 +113,8 @@ ___
 ___
 ##  🔨 Casos de como e quando usar 🛠️
 
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-  * 👉 [**** ]()
+  * 👉 [**Ciclo de vida das aplicações JavaScript**](readme/README1.md)
+  * 👉 [**Callbacks**](readme/README2.md)
+  * 👉 [**Promises**](readme/README3.md)
+  * 👉 [**async/await**](readme/README4.md)
 
-## ✔️ **** 
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-```git
-git clone 
-```
