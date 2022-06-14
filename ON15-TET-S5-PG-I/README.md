@@ -103,9 +103,9 @@ ___
 ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 
-  * 👉 [**Laços** ](README1.md)
-  * 👉 [**Objetos** ](README2.md)
-  * 👉 [**Arrays** ](README3.md)
-  * 👉 [**Objetos** e **Classes** ](README4.md)
-  * 👉 [**Métodos** ](README5.md)
+  * 👉 [**Laços** ](readme/README1.md)
+  * 👉 [**Objetos** ](readme/README2.md)
+  * 👉 [**Arrays** ](readme/README3.md)
+  * 👉 [**Objetos** e **Classes** ](readme/README4.md)
+  * 👉 [**Métodos** ](readme/README5.md)
 

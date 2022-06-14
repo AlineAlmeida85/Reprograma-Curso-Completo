@@ -179,7 +179,7 @@ ___
 ___
 ##  🔨 Casos de como e quando usar 🛠️
 
-  * 👉 [**Arrays** ](README1.md)
-  * 👉 [**Métodos de Arrays** ](README2.md)
-  * 👉 [**Spread/rest** ](README3.md)
+  * 👉 [**Arrays** ](readme/README1.md)
+  * 👉 [**Métodos de Arrays** ](readme/README2.md)
+  * 👉 [**Spread/rest** ](readme/README3.md)
 

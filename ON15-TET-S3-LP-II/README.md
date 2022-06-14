@@ -145,11 +145,11 @@ ___
 ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 
-  * 👉 [**Estruturas de repetição - for** ](README1.md)
-  * 👉 [**Estruturas de repetição - while** ](README2.md)
-  * 👉 [**Estruturas de repetição - do... while** ](README3.md)
-  * 👉 [**Estruturas de repetição - for... of** ](README4.md)
-  * 👉 [**Funções e Arrow Function** ](README5.md)
-  * 👉 [**Objetos** ](README6.md)
+  * 👉 [**Estruturas de repetição - for** ](readme/README1.md)
+  * 👉 [**Estruturas de repetição - while** ](readme/README2.md)
+  * 👉 [**Estruturas de repetição - do... while** ](readme/README3.md)
+  * 👉 [**Estruturas de repetição - for... of** ](readme/README4.md)
+  * 👉 [**Funções e Arrow Function** ](readme/README5.md)
+  * 👉 [**Objetos** ](readme/README6.md)
 
 

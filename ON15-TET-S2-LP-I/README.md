@@ -226,11 +226,11 @@ ___
 
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 
-  * 👉 [**Dados** ](README3.md)
-  * 👉 [**Variáveis** ](README4.md)
-  * 👉 [**Operadores** ](README5.md)
-  * 👉 [**If / else** ](README1.md)
-  * 👉 [**Switch / case** ](README2.md)
+  * 👉 [**Dados** ](readme/README3.md)
+  * 👉 [**Variáveis** ](readme/README4.md)
+  * 👉 [**Operadores** ](readme/README5.md)
+  * 👉 [**If / else** ](readme/README1.md)
+  * 👉 [**Switch / case** ](readme/README2.md)
 
 
 
