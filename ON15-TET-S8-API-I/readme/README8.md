@@ -33,3 +33,10 @@ touch .gitignore
 
 #### E perceba que o arquivo `node_modules` mudou o tom de cor, ou seja, ele foi ignorado e quando formos subir nosso projeto para o GitHub ela não vai junto, será realmente ignorada.
 #### Todos os outros arquivos que precisarem ser ignorados é só seguir o mesmo procedimento.
+___
+
+#### Então resumindo... Sempre que for baixar um projeto do GitHub, ele `não` estará com a `node_modules`, ou seja, se voce não digitar o comando:
+```git
+npm install
+```
+#### `Não será possível testar a aplicação` na sua máquina, pois lembrando que na `node_modules` que ficam as `dependências` que o projeto precisa para rodar e sem o comando acima a `node_modules` não vai aparecer com as `dependências`.
