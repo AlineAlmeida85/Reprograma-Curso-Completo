@@ -78,14 +78,18 @@ ___
   * 👉 [**Modelo Server-Client**](readme/README3.md)
   * 👉 [**HTTP**](readme/README4.md)
   * 👉 [**Node.js e os Gerenciadores de Pacotes**](readme/README5.md)
-  * 👉 [**Nosso Primeiro Servidor**](readme/README6.md)
+  * 👉 [**Nosso Primeiro Servidor Passo-a-Passo**](readme/README6.md)
   * 👉 [**Dependências**](readme/README7.md)
   * 👉 [**.gitignore**](readme/README8.md)
   * 👉 [**Express**](readme/README9.md)
   * 👉 [**API Rest**](readme/README10.md)
+  * 👉 [**Nodemon**](readme/README11.md)
+  * 👉 [**GET**](readme/README12.md)
+  * 👉 [**Parâmetros**](readme/README13.md)
+  * 👉 [**POST**](readme/README14.md)
 
-
-## ✔️ `API Rest`
+3:45
+## ✔️ `POST`
 
 
 #### 
