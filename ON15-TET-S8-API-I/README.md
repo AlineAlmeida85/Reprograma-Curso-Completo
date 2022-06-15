@@ -79,7 +79,7 @@ ___
   * 👉 [**HTTP**](readme/README4.md)
   * 👉 [**Node.js e os Gerenciadores de Pacotes**](readme/README5.md)
   * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 1**](readme/README6.md)
-    * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 2**](readme/README15.md)
+  * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 2**](readme/README15.md)
   * 👉 [**Dependências**](readme/README7.md)
   * 👉 [**.gitignore**](readme/README8.md)
   * 👉 [**Express**](readme/README9.md)
