@@ -184,7 +184,7 @@ app.get("/products/buscar/:id", (request, response) => {
 
 })
 ```
-#### Agora eu quero fazer uma pesquisa e essa pesquisa tem que ser pelo ID, pra issi usamos o parâmetro enviado direto pela rota, então vamos recuperar o valor do ID enviado na request criando uma variável que vai receber esse id:
+#### Agora eu quero fazer uma pesquisa e essa pesquisa tem que ser pelo ID, pra isso usamos o parâmetro enviado direto pela rota, então vamos recuperar o valor do ID enviado na request criando uma variável que vai receber esse id:
 ```javascript
 let idRequest = request.params.id
 ```
@@ -194,4 +194,15 @@ let idRequest = request.params.id
 ```javascript
 let produtoEncontrado = produtosjson.find(produto => produto.id == idRequest)
 ```
-#### É isso! Eu quero que o que o meu usuário pediu seja igual ao que o meu arquivo achou.
+#### É isso! A variável `produtoEncontrado` será o resultado de: procurar `.find` dentro desse array `produtosjson` o `produto.id` que seja igual `==` ao `idRequest`.
+#### Vamos então fazer o response que será o mesmo ja visto antes:
+```javascript
+response.status(200).send(produtoEncontrado)
+```
+#### Agora vamos no Postman pra ver se deu certo:
+#### Endereço da rota no Postman é `localhost:8080/products/buscar/8` porque no caso vou buscar pelo `ID 8`, e...
+<p align="center">
+  <img alt="foto" title="foto" src="../img/foto28.png"/>
+</p>
+
+#### Apareceu o `ID` que eu busquei... está funcionando nossa segunda rota!!
