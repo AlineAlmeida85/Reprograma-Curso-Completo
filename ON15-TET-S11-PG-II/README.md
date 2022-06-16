@@ -1,9 +1,12 @@
 # ON15-TET-S11-PG-II 🤝
 
 ## Turma 15 - Todas Em Tech - Semana 11 - Projeto Guiado II 👩‍💻
+<div align="center">
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/80156310?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫  Professora: Hannah Freitas ✍🏽</h2>](https://github.com/HannahFreitas) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/80156310?v=4" width=115><br><h2>👩‍🏫 Hannah Freitas ✍🏽</h2>](https://github.com/HannahFreitas) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
+
+</div>
 
 <details>
   <summary>

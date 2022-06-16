@@ -1,9 +1,12 @@
 # ON15-TET-S6-Nodejs 🤝
 
 ## Turma 15 - Todas Em Tech - Semana 06 - Nodejs 👩‍💻
+<div align="center">
 
 | [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
+
+</div>
 
 <details>
   <summary>

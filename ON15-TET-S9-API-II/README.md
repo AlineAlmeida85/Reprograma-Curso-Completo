@@ -1,9 +1,12 @@
 # ON15-TET-S9-API-II 🤝
 
 ## Turma 15 - Todas Em Tech - Semana 09 - API II 👩‍💻
+<div align="center">
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫  Professora: Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫  Professora: Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
+
+</div>
 
 <details>
   <summary>

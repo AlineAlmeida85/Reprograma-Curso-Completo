@@ -1,10 +1,11 @@
 # ON15-TET-S1-GIT 🤝
 
 ## Turma 15 - Todas Em Tech - Semana 01 - GIT 👩‍💻
+<div align="center">
 
 | [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/33252729?v=4" width=115><br><h2>👩‍🏫  Amanda Silva ✍🏽</h2>](https://github.com/oskojess) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
-
+</div>
 <details>
   <summary>
     <span>🔗 Links 🔗</span>

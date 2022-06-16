@@ -2,11 +2,11 @@
 # ON15-TET-S3-LP-II 🤝
 
 ## Turma 15 - Todas Em Tech - Semana 03 - Lógica de Programação II 👩‍💻
-
+<div align="center">
 
 | [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
-
+</div>
 
 <details>
   <summary>

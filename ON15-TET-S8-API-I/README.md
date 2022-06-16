@@ -1,9 +1,12 @@
 # ON15-TET-S8-API-I 🤝
 
 ## Turma 15 - Todas Em Tech - Semana 08 - API I 👩‍💻
+<div align="center">
 
 | [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
+
+</div>
 
 <details>
   <summary>
@@ -89,13 +92,3 @@ ___
   * 👉 [**Parâmetros**](readme/README13.md)
   * 👉 [**POST**](readme/README14.md)
 
-3:45
-## ✔️ `POST`
-
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 

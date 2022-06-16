@@ -1,9 +1,12 @@
 # ON15-TET-S10-Revisao-API 🤝
 
 ## Turma 15 - Todas Em Tech - Semana 10 - Revisão API 👩‍💻
+<div align="center">
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/89533112?v=4" width=115 style=border-radius:50%><br><h2>👩‍🏫  Professora: Bea Ramerindo ✍🏽</h2>](https://github.com/beatrizramerindo) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/89533112?v=4" width=115><br><h2>👩‍🏫 Bea Ramerindo ✍🏽</h2>](https://github.com/beatrizramerindo) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
+
+</div>
 
 <details>
   <summary>
