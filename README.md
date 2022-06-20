@@ -56,10 +56,10 @@ ___
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S5-PG-I">ON15-TET-S5-PG-I ➝ Projeto Guiado I</a><br/> 
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S6-Nodejs">ON15-TET-S6-Nodejs ➝ Introdução ao Node.js</a><br/> 
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S7-ASSINCJS">ON15-TET-S7-ASSINCJS ➝ Assincronismo</a><br/> 
-    ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S8-API-I">ON15-TET-S8-API-I ➝ API I</a><br/>
+    ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S8-API-I">ON15-TET-S8-API-I ➝ Construção de API I</a><br/>
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS">ON15-TET-Reforco-JS ➝ Aula de Reforço - Javascript</a><br/>
-    ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S9-API-II">ON15-TET-S9-API-II ➝ API II</a><br/>  
-    ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API">ON15-TET-S10-Revisao-API</a><br/> 
+    ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S9-API-II">ON15-TET-S9-API-II ➝ Construção de API II</a><br/>  
+    ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API">ON15-TET-S10-Revisao-API ➝ Revisão de construção de API</a><br/> 
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S11-PG-II">ON15-TET-S11-PG-II ➝ Projeto Guiado II</a><br/>      
   </div>
 </details>
