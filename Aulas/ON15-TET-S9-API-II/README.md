@@ -34,40 +34,30 @@ ___
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
-          <td></td>                
+          <td>DELETE</td>                
           <td align="center">✅</td>
         </tr>
         <tr> 
           <td align="center">👉</td>
-          <td></td>                
+          <td>PUT</td>                
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                
+          <td>PATCH</td>                
           <td align="center">✅</td>
-        </tr>
-	<tr>    
-          <td align="center">👉</td>            
-          <td></td>                
-          <td align="center">✅</td>
-        </tr>
-	<tr>    
-          <td align="center">👉</td>            
-          <td></td>                
-          <td align="center">✅</td>
-        </tr>
+        </tr>	
       </table>               
     </div>
 </details>
 
 
 ___
-##  🔨 Casos de como e quando usar 🛠️
+##  🔨 Conteúdos da Aula detalhados 🛠️
 
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-  * 👉 [**** ]()
+  * 👉 [****]()
+  * 👉 [****]()
+  * 👉 [****]()
 
 ## ✔️ **** 
 

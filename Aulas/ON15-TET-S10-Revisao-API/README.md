@@ -93,7 +93,7 @@ ___
 
 
 ___
-##  🔨 Casos de como e quando usar 🛠️
+##  🔨 Conteúdos da Aula detalhados 🛠️
 
   * 👉 [**** ]()
   * 👉 [**** ]()
