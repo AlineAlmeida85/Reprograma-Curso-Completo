@@ -77,19 +77,26 @@ ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 
   * 👉 [**API, Web API e API REST**](readme/README1.md)
+  * 👉 [**API Rest**](readme/README10.md)
   * 👉 [**CRUD**](readme/README2.md)
   * 👉 [**Modelo Server-Client**](readme/README3.md)
   * 👉 [**HTTP**](readme/README4.md)
   * 👉 [**Node.js e os Gerenciadores de Pacotes**](readme/README5.md)
+  * 👉 [**Dependências**](readme/README7.md)
+  * 👉 [**Nodemon**](readme/README11.md)
+  * 👉 [**CORS**](readme/README17.md)
+  * 👉 [**Parâmetros**](readme/README13.md)
+  * 👉 [**.gitignore**](readme/README8.md)
+  * 👉 [**GET**](readme/README12.md)
+  * 👉 [**POST**](readme/README14.md)
   * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 1**](readme/README6.md)
   * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 2**](readme/README15.md)
   * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 3**](readme/README16.md)
-  * 👉 [**Dependências**](readme/README7.md)
-  * 👉 [**.gitignore**](readme/README8.md)
-  * 👉 [**Express**](readme/README9.md)
-  * 👉 [**API Rest**](readme/README10.md)
-  * 👉 [**Nodemon**](readme/README11.md)
-  * 👉 [**GET**](readme/README12.md)
-  * 👉 [**Parâmetros**](readme/README13.md)
-  * 👉 [**POST**](readme/README14.md)
+  * 👉 [**Passo a Passo da Construção da Aula Resumida**](readme/README9.md)
+
+
+
+
+
+
 
