@@ -30,7 +30,7 @@ ___
     <summary>
       <strong>➝ Ciclo de vida das aplicações JavaScript ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -50,7 +50,7 @@ ___
     <summary>
       <strong>➝ Callbacks ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -65,7 +65,7 @@ ___
     <summary>
       <strong>➝ Promises ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -100,7 +100,7 @@ ___
     <summary>
       <strong>➝ async/await ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                

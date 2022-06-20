@@ -25,7 +25,7 @@ ___
     <summary>
       <strong>➝ Funções ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -45,7 +45,7 @@ ___
     <summary>
       <strong>➝ Objetos ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -60,7 +60,7 @@ ___
     <summary>
       <strong>➝ Array (métodos) ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -75,7 +75,7 @@ ___
     <summary>
       <strong>➝ Async/Await ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                

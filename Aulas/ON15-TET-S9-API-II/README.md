@@ -3,7 +3,7 @@
 ## Turma 15 - Todas Em Tech - Semana 09 - API II 👩‍💻
 <div align="center">
 
-| [<br><sub></sub>]() |  [<img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫  Professora: Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
+| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
 | :---: | :---: | :---: | 
 
 </div>
@@ -30,7 +30,7 @@ ___
     <summary>
       <strong>➝ Introdução à API: DELETE + PUT + PATCH ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                

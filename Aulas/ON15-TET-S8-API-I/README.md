@@ -31,7 +31,7 @@ ___
     <summary>
       <strong>➝ Introdução à API: GET + POST ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -92,7 +92,7 @@ ___
   * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 1**](readme/README6.md)
   * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 2**](readme/README15.md)
   * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 3**](readme/README16.md)
-  * 👉 [**Passo a Passo da Construção da Aula Resumida**](readme/README9.md)
+  * 👉 [**Passo a Passo da Construção do Servidor Resumido**](readme/README9.md)
 
 
 

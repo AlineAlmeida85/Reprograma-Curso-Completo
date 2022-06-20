@@ -25,7 +25,7 @@ ___
     <summary>
       <strong>➝ Revisão de Objetos ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -60,7 +60,7 @@ ___
     <summary>
       <strong>➝ Arrays ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -85,7 +85,7 @@ ___
     <summary>
       <strong>➝ Métodos de Arrays ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -160,7 +160,7 @@ ___
     <summary>
       <strong>➝ Spread/rest ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                

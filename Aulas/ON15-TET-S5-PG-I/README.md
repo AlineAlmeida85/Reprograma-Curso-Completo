@@ -24,7 +24,7 @@ ___
     <summary>
       <strong>➝ Laços ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -49,7 +49,7 @@ ___
     <summary>
       <strong>➝ Objetos ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -67,7 +67,7 @@ ___
     <summary>
       <strong>➝ Arrays ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -80,7 +80,7 @@ ___
     <summary>
       <strong>➝ Introdução a Orientação a Objetos. ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                

@@ -26,7 +26,7 @@ ___
     <summary>
       <strong>➝ Revisão das estruturas condicionais ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -46,7 +46,7 @@ ___
     <summary>
       <strong>➝ Estruturas de repetição ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -76,7 +76,7 @@ ___
     <summary>
       <strong>➝ Escopo ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -91,7 +91,7 @@ ___
     <summary>
       <strong>➝ Funções ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -111,7 +111,7 @@ ___
     <summary>
       <strong>➝ Objetos ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                

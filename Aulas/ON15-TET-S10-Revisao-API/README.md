@@ -30,7 +30,7 @@ ___
     <summary>
       <strong>➝ Revisão ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -60,7 +60,7 @@ ___
     <summary>
       <strong>➝ Arquitetura MVC ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                

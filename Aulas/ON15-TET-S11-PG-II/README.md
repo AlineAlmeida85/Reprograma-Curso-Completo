@@ -28,7 +28,7 @@ ___
     <summary>
       <strong>➝ Como montar uma estrutura de lógica em código ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
@@ -43,7 +43,7 @@ ___
     <summary>
       <strong>➝ Estrutura MVC ✔️</strong>
     </summary>    
-    <div align="center">        
+    <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                

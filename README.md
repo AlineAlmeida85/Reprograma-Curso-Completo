@@ -56,7 +56,8 @@ ___
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S5-PG-I">ON15-TET-S5-PG-I</a><br/> 
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S6-Nodejs">ON15-TET-S6-Nodejs</a><br/> 
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S7-ASSINCJS">ON15-TET-S7-ASSINCJS</a><br/> 
-    ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S8-API-I">ON15-TET-S8-API-I</a><br/>  
+    ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S8-API-I">ON15-TET-S8-API-I</a><br/>
+    ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS">ON15-TET-Reforco-JS</a><br/>
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S9-API-II">ON15-TET-S9-API-II</a><br/>  
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API">ON15-TET-S10-Revisao-API</a><br/> 
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S11-PG-II">ON15-TET-S11-PG-II</a><br/>      
