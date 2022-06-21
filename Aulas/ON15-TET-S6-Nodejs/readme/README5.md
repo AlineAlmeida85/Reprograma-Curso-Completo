@@ -21,7 +21,7 @@ ___
 </p>
 
 **O que é `curl`? É uma forma de consumir uma `API`, na verdade conseguimos consimir qualquer `API` através do `curl`, consumimos direto do nosso terminal**
-#### Copiando o `curl` e colando no seu terminal, ele trará um `JSON` enorme com todas as respostas de filmes da ghibli, podemos fazer GET, POST, PUT, PATCH e DELETE, tudo no seu terminal, porque no caso, nosso terminal vira o Client.
+#### Copiando o `curl` e colando no seu terminal, ele trará um `JSON` enorme com todas as respostas de filmes da ghibli, podemos fazer `GET`, `POST`, `PUT`, `PATCH` e `DELETE`, tudo no seu terminal, porque no caso, nosso terminal vira o Client.
 #### Esta é a rota:
 <p align="center">
   <img alt="foto" title="foto" src="../img/foto04.png"/>
@@ -33,6 +33,6 @@ ___
 ___
 ### `Terceira forma de fazer Requisição`
 #### Essa é a que mais vamos utilizar é pelo `Postman`.
-#### Podemos [baixar]() ou usar o `Postman` do [Chrome]().
+#### Podemos baixar ou usar o `Postman` do Chrome.
 #### Pra que serve o `Postman`?
 #### Pra criar um Client, pra testar enquanto desenvolve o Back-End.

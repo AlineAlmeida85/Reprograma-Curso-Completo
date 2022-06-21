@@ -53,29 +53,15 @@ ___
 
 
 ___
-##  🔨 Conteúdos da Aula detalhados 🛠️
 
+##  🔨 Conteúdos da Aula detalhados 🛠️
 
   * 👉 [**Revisão de Parâmetros**](readme/README1.md)
   * 👉 [**DELETE**](readme/README2.md)
-  * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 4**](readme/README3.md)
   * 👉 [**PUT e PATCH**](readme/README5.md)
-  * 👉 [**Passo a Passo da Construção do Servidor Resumido**](readme/README4.md)
-
-## ✔️ `PUT e PATCH` 
-
-#### 
-
-
-#### 
-
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-```git
-git clone 
-```
+  * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 4**](readme/README3.md)
+  * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 5**](readme/README6.md)
+  * 👉 [**Passo a Passo da Construção do Servidor Simples Completo e Resumido**](readme/README4.md)
+  * 👉 [**Arquitetura**](readme/README7.md)
+  * 👉 [**Passo a Passo da Construção de um Servidor utilizando a Arquitetura MVC**](readme/README8.md)
+  * 👉 [**Passo a Passo da Construção de um Servidor utilizando a Arquitetura MVC 2**](readme/README9.md)

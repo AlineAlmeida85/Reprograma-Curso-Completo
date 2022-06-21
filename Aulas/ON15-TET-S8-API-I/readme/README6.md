@@ -35,7 +35,7 @@ ___
 package name:
 ```
 #### pode deixar com o nome sugerido mesmo. 
-#### Tecle o **Enter**.
+#### Tecle o <kdb>Enter</kdb>.
 
 
 ___
@@ -43,7 +43,7 @@ ___
 version:
 ```
 #### mantenha a versão.
-#### Tecle o **Enter**.
+#### Tecle o <kdb>Enter</kdb>.
 
 
 ___
@@ -51,7 +51,7 @@ ___
 description:
 ```
 #### Coloque por exemplo o nome do projeto acompanhado de uma breve descrição.
-#### Tecle o **Enter**.
+#### Tecle o <kdb>Enter</kdb>.
 
 
 ___
@@ -59,7 +59,7 @@ ___
 entry point:
 ```
 #### Onde começa a aplicação, que geralmente vai aparecer a sugestão.
-#### Tecle o **Enter**.
+#### Tecle o <kdb>Enter</kdb>.
 
 
 ___
@@ -67,7 +67,7 @@ ___
 test command:
 ```
 #### Podemos colocar depois.
-#### Tecle o **Enter**.
+#### Tecle o <kdb>Enter</kdb>.
 
 
 ___
@@ -75,7 +75,7 @@ ___
 git repositor:
 ```
 #### Podemos colocar depois. Mas se voce criou um repositório no gitHub e iniciou o projeto a partir do clone, este item ja estará preenchido, então não precisa mexer.
-#### Tecle o **Enter**.
+#### Tecle o <kdb>Enter</kdb>.
 
 
 ___
@@ -83,7 +83,7 @@ ___
 keywords:
 ```
 #### Podemos colocar depois.
-#### Tecle o **Enter**.
+#### Tecle o <kdb>Enter</kdb>.
 
 
 ___
@@ -91,7 +91,7 @@ ___
 author:
 ```
 #### Coloque o seu nome.
-#### Tecle o **Enter**.
+#### Tecle o <kdb>Enter</kdb>.
 
 
 ___
@@ -99,13 +99,13 @@ ___
 licence: (ISC)
 ```
 #### Deixe assim.
-#### Tecle o **Enter**. E por fim irá aparecer uma pergunta:
+#### Tecle o <kdb>Enter</kdb>. E por fim irá aparecer uma pergunta:
 ```git
 Is this OK? (yes)
 ```
 #### Ele ja sugeriu a sua resposta
 #### Escreva `yes`
-#### Tecle o **Enter**.
+#### Tecle o <kdb>Enter</kdb>.
 #### E pronto, foi criado. A foto abaixo mostra os passos acima.
 <p align="center">
   <img alt="foto" title="foto" src="../img/foto02.png"/>

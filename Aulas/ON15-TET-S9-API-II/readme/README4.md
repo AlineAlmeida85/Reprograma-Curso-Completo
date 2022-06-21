@@ -112,3 +112,71 @@ app.put("/products/atualizar/:id", (request, response) => {
 })
 ```
 
+#### Construindo nossa rota `PATCH`.
+___
+#### A estrutura bpasica está criada.
+```javascript
+app.patch("products/update/:id", (request, response) => {
+
+})
+```
+
+```javascript
+app.patch("products/update/:id", (request, response) => {
+    const idRequest = request.params.id
+    
+})
+```
+
+```javascript
+app.patch("products/update/:id", (request, response) => {
+    const idRequest = request.params.id
+    const newTitle = request.body.title
+    
+})
+```
+
+```javascript
+app.patch("products/update/:id", (request, response) => {
+    const idRequest = request.params.id
+    const newTitle = request.body.title
+    const produtoEncontrado = produtosJson.find(produto => produto.id == idRequest)
+})
+```
+
+```javascript
+app.patch("products/update/:id", (request, response) => {
+    const idRequest = request.params.id
+    const newTitle = request.body.title
+
+    const produtoEncontrado = produtosJson.find(produto => produto.id == idRequest)
+
+    produtoEncontrado = newTitle
+})
+```
+#### E pronto!! Nossa rota PATCH está pronta. Agora vamos fazer a response:
+```javascript
+response.status(200).json([{
+    "Mensagem": "Título atualizado com sucesso!!",
+    "produto-atualizado": produtoEncontrado,
+    produtosJson
+}])
+```
+#### Agora nosso código está pronto.
+```javascript
+app.patch("products/update/:id", (request, response) => {
+    const idRequest = request.params.id
+    const newTitle = request.body.title
+
+    const produtoEncontrado = produtosJson.find(produto => produto.id == idRequest)
+
+    produtoEncontrado = newTitle
+
+    response.status(200).json([{
+    "Mensagem": "Título atualizado com sucesso!!",
+    "produto-atualizado": produtoEncontrado,
+    produtosJson
+}])
+})
+```
+#### Concluído.

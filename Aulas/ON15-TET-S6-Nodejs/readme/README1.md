@@ -66,7 +66,7 @@ ___
 #### `/parcerias.html`
 
 ### URI ↓
-◼️ URI - Uniform Resource Identifier (identificador de recursos universal). É o identificador contendo que une o protocolo HTTP + o localizador do recurso(URL) + nome do recurso.
+◼️ URI - Uniform Resource Identifier (identificador de recursos universal). É o identificador contendo que une o protocolo HTTP + o localizador do recurso (URL) + nome do recurso.
 #### Pode ser uma página HTML, imagem, vídeo ou qualquer outro arquivo web tem um endereço dentro da internet, esse endereço é a `URI`.
 
 |   Protocolo    |   URL                 | URN              |

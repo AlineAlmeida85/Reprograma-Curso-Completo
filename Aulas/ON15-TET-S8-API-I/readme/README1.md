@@ -1,6 +1,6 @@
 ## ✔️ `API, Web API e API REST`
 ___
-### `API` busca criar formas e ferramentas de se usar uma  funcionalidade ou um dado sem realmente ter que "reinventar a tal função."
+#### `API` busca criar formas e ferramentas de se usar uma  funcionalidade ou um dado sem realmente ter que "reinventar a tal função."
 #### Ela não necessariamente está num link na Web.
 ___
 ### `Web API e API REST` 
