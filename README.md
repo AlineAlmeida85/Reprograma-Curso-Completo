@@ -83,6 +83,6 @@ ___
 ### Espero que te agrade! 
 
 
-[Anterior](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27)_____________________________________________________________________________________________________________[Próximo](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27)
+[Anterior](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27)___________________________________________________________________________________________________________[Próximo](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27)
 
 
