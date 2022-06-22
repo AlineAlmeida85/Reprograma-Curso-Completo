@@ -59,7 +59,7 @@ ___
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API">ON15-TET-S10-Revisao-API ➝ Revisão de construção de API</a><br/> 
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S11-PG-II">ON15-TET-S11-PG-II ➝ Projeto Guiado II</a><br/>      
   </div>
-  
+
 ___
 ## ⚙️ Tudo o que Aprendemos
 
@@ -83,6 +83,6 @@ ___
 ### Espero que te agrade! 
 
 
-[Anterior](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27) -------------------------------------------------------------------------- [Próximo](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27)
+[Anterior](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27) ______________________________________________________________________________________________________________________________ [Próximo](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27)
 
 
