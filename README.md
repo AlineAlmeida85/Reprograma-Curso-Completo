@@ -43,10 +43,7 @@ ___
 - `4` [Conteúdos adicionais e materiais de apoio](link) ✔️
 ___
 
-## Menu das Aulas
-
-<details>
-  <summary><span></span></summary>
+## Menu das Aulas  
   <div>
     <h4>Turma 15 - Todas Em Tech</h4>
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT" target="blank">ON15-TET-S1-GIT ➝ GIT e GitHub</a><br/>
@@ -62,8 +59,7 @@ ___
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API">ON15-TET-S10-Revisao-API ➝ Revisão de construção de API</a><br/> 
     ➝ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S11-PG-II">ON15-TET-S11-PG-II ➝ Projeto Guiado II</a><br/>      
   </div>
-</details>
-
+  
 ___
 ## ⚙️ Tudo o que Aprendemos
 
@@ -87,5 +83,6 @@ ___
 ### Espero que te agrade! 
 
 
+[Anterior](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27) -------------------------------------------------------------------------- [Próximo](https://www.youtube.com/watch?v=prpiYJLRWOM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=27)
 
 

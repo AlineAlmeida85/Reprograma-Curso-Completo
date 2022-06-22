@@ -25,6 +25,7 @@
 </details>
 
 ___
+
 ##  👀 O que foi visto na Aula? 🛠️
 <details>
     <summary>
@@ -93,30 +94,12 @@ ___
 
 
 ___
+
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-  * 👉 [**** ]()
+  * 👉 [**Revisão**](readme/README1.md)
+  * 👉 [**Revisão Detalhada da Aula 1**](readme/README2.md)
+  * 👉 [**Revisão Detalhada da Aula 2**](readme/README3.md)
+  * 👉 [**Revisão Detalhada da Aula 3**](readme/README4.md)
 
-## ✔️ **** 
 
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-```git
-git clone 
-```
