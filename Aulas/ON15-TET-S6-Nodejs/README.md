@@ -1,17 +1,19 @@
-# ON15-TET-S6-Nodejs 🤝
+# ON15-TET-S6-Nodejs 🤝 Turma 15 - Todas Em Tech - Semana 06 - Nodejs 👩‍💻
 
-## Turma 15 - Todas Em Tech - Semana 06 - Nodejs 👩‍💻
+</br>
 <div align="center">
 
-| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
-| :---: | :---: | :---: | 
+| [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) | 
+| :---: |
 
 </div>
+</br>
 
-<details>
+<div>
   <summary>
-    <span>🔗 Links 🔗</span>
+    <h2>🔗 Links 🔗</h2>
   </summary>
+  </br>
   <div>    
     * 📌<a href="https://www.youtube.com/watch?v=QJQc-eGBO-k&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=16">Link da aula - Parte 1</a>
     <br/>    
@@ -20,10 +22,12 @@
     * 📌<a href="https://github.com/reprograma/ON15-TET-S6-Nodejs">Link do Repositório da Aula</a>
     <br/>
   </div>
-</details>
+</div>
+</br>
 
 ___
 ##  👀 O que foi visto na Aula? 🛠️
+</br>
 <details>
     <summary>
       <strong>➝ TODO list ✔️</strong>
@@ -73,10 +77,11 @@ ___
       </table>               
     </div>
 </details>
-
+</br>
 
 ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
+</br>
 
   * 👉 [**Como funciona a internet?**](readme/README1.md)
   * 👉 [**Dev Front** | **Dev Back**](readme/README2.md)
@@ -84,4 +89,6 @@ ___
   * 👉 [**JSON**](readme/README4.md)
   * 👉 [**Consumindo API**](readme/README5.md)
 
+</br>
 
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S4-LP-III)_____________________________________________________________________________________________________________ Ir para [  ON15-TET-S7-ASSINCJS](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S7-ASSINCJS)
