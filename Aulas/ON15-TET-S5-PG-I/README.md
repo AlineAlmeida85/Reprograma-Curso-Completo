@@ -1,25 +1,30 @@
-# ON15-TET-S5-PG-I 🤝
+# ON15-TET-S5-PG-I 🤝 Turma 15 - Todas Em Tech - Semana 05 - Projeto Guiado I 👩‍💻
 
-## Turma 15 - Todas Em Tech - Semana 05 - Projeto Guiado I 👩‍💻
+</br>
 <div align="center">
 
-| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/80156310?v=4" width=115><br><h2>👩‍🏫 Hannah Freitas ✍🏽</h2>](https://github.com/HannahFreitas) |  [<br><sub></sub>]() |
-| :---: | :---: | :---: | 
+| [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/80156310?v=4" width=115><br><h2>👩‍🏫 Hannah Freitas ✍🏽</h2>](https://github.com/HannahFreitas) |
+| :---: | 
 </div>
-<details>
+</br>
+
+<div>
   <summary>
-    <span>🔗 Links 🔗</span>
+    <h2>🔗 Links 🔗</h2>
   </summary>
+  <br>
   <div>    
     * 📌<a href="https://www.youtube.com/watch?v=qHfuYBNP_yk&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=12">Link da aula - Parte 1</a><br/>
     * 📌<a href="https://www.youtube.com/watch?v=QeEdbi3_LrM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=14&t=2226s">Link da aula - Parte 2</a><br/>
     * 📌<a href="https://www.youtube.com/watch?v=IyPX_sD7hEw&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=14">Link da aula - Reforço</a><br/>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S5-PG-I">Link do Repositório da Aula</a><br/>
   </div>
-</details>
+</div>
+</br>
 
 ___
 ##  👀 O que foi visto na Aula? 🛠️
+</br>
 <details>
     <summary>
       <strong>➝ Laços ✔️</strong>
@@ -100,9 +105,11 @@ ___
       </table>               
     </div>
 </details>
+</br>
 
 ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
+</br>
 
   * 👉 [**Laços** ](readme/README1.md)
   * 👉 [**Objetos** ](readme/README2.md)
@@ -110,3 +117,6 @@ ___
   * 👉 [**Objetos** e **Classes** ](readme/README4.md)
   * 👉 [**Métodos** ](readme/README5.md)
 
+</br>
+
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S4-LP-III)_____________________________________________________________________________________________________________________ Ir para [  ON15-TET-S6-Nodejs](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S6-Nodejs)
