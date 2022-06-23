@@ -1,27 +1,31 @@
+# ON15-TET-S3-LP-II 🤝 Turma 15 - Todas Em Tech - Semana 03 - Lógica de Programação II 👩‍💻
 
-# ON15-TET-S3-LP-II 🤝
-
-## Turma 15 - Todas Em Tech - Semana 03 - Lógica de Programação II 👩‍💻
+</br>
 <div align="center">
 
-| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
-| :---: | :---: | :---: | 
+| [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |
+| :---: | 
+
+</br>
 </div>
 
-<details>
+<div>
   <summary>
-    <span>🔗 Links 🔗</span>
+    <h2>🔗 Links 🔗</h2>
   </summary>
+  </br>
   <div>    
     * 📌<a href="https://www.youtube.com/watch?v=CAY07KB8AJw&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=6">Link da aula - Parte 1</a><br/>
     * 📌<a href="https://www.youtube.com/watch?v=YROp0feDLLQ&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=7">Link da aula - Parte 2</a><br/>
     * 📌<a href="https://www.youtube.com/watch?v=rt0mSdDJMVE&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=8">Link da aula - Reforço</a><br/>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S3-LP-II">Link do Repositório da Aula</a><br/>
   </div>
-</details>
+</div>
+</br>
 
 ___
 ##  👀 O que foi visto na Aula? 🛠️
+</br>
 <details>
     <summary>
       <strong>➝ Revisão das estruturas condicionais ✔️</strong>
@@ -141,9 +145,11 @@ ___
       </table>               
     </div>
 </details>
+</br>
 
 ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
+</br>
 
   * 👉 [**Estruturas de repetição - for** ](readme/README1.md)
   * 👉 [**Estruturas de repetição - while** ](readme/README2.md)
@@ -152,4 +158,6 @@ ___
   * 👉 [**Funções e Arrow Function** ](readme/README5.md)
   * 👉 [**Objetos** ](readme/README6.md)
 
+</br>
 
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S2-LP-I)_____________________________________________________________________________________________________________________ Ir para [  ON15-TET-S3-LP-II](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S4-LP-III)
