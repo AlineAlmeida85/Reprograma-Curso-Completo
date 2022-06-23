@@ -79,7 +79,7 @@ ___
 <br>
 <div align="center">
 
-| [<img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" width=100><br><h4>Git</h4>](https://git-scm.com/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-3629449-3031512.png" width=80><br><h4>Javascript</h4>](https://www.javascript.com/) |  [<img src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc91.png" width=80><br><h4>Node.js</h4>](https://nodejs.org/en/) | [<img src="https://img2.gratispng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg" width=80><br><h4>MongoDb</h4>](https://www.mongodb.com/pt-br) | [<img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width=150><br><h4>GitHub</h4>](https://github.com/) |
+| [<img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" width=100><br><h4>Git</h4>](https://git-scm.com/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-3629449-3031512.png" width=80><br><h4>Javascript</h4>](https://www.javascript.com/) |  [<img src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc91.png" width=80><br><h4>Node.js</h4>](https://nodejs.org/en/) | [<img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" width=80><br><h4>MongoDb</h4>](https://www.mongodb.com/pt-br) | [<img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width=150><br><h4>GitHub</h4>](https://github.com/) |
 | :---: | :---: | :---: | :---: | :---: |
 </div>
 <br>
