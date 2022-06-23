@@ -1,28 +1,28 @@
+# ON15-TET-S2-LP-I 🤝 Turma 15 - Todas Em Tech - Semana 02 - Lógica de Programação - I 👩‍💻
 
-# ON15-TET-S2-LP-I 🤝
-
-## Turma 15 - Todas Em Tech - Semana 02 - Lógica de Programação - I 👩‍💻
-
+<br>
 <div align="center">
 
-| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |  [<br><sub></sub>]() |
-| :---: | :---: | :---: | 
+| [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/73290609?v=4" width=115><br><h2>👩‍🏫 Lilit Bandeira ✍🏽</h2>](https://github.com/lilitbandeira) |
+| :---: | 
 </div>
+<br>
 
-
-<details>
+<div>
   <summary>
-    <span>🔗 Links 🔗</span>
+    <h2>🔗 Links 🔗</h2>
   </summary>
   <div>    
     * 📌<a href="https://www.youtube.com/watch?v=WoA9SJtQSyk&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=4">Link da aula - Parte 1</a><br/>    
     * 📌<a href="https://www.youtube.com/watch?v=fySKem9jpx0&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=5">Link da aula - Reforço</a><br/>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S2-LP-I">Link do Repositório da Aula</a><br/>
   </div>
-</details>
+</div>
+<br>
 
 ___
 ## 🛠️ O que foi visto na Aula? 👀
+<br>
 <details>
     <summary>
       <strong>➝ Backend e Frontend ✔️</strong>
@@ -42,7 +42,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Lógica de Programação ✔️</strong>
@@ -72,7 +71,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Linguagens de Programação que Aprenderemos✔️</strong>
@@ -92,7 +90,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Tipos de dados ✔️</strong>
@@ -127,7 +124,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Objetos ✔️</strong>
@@ -142,7 +138,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Variáveis ✔️</strong>
@@ -167,7 +162,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Operadores ✔️</strong>
@@ -202,7 +196,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Estruturas condicionais ✔️</strong>
@@ -222,10 +215,12 @@ ___
       </table>               
     </div>
 </details>
+<br>
 
 ___
 
 ##  🔨 Conteúdos da Aula detalhados 🛠️
+<br>
 
   * 👉 [**Dados** ](readme/README3.md)
   * 👉 [**Variáveis** ](readme/README4.md)
@@ -233,6 +228,8 @@ ___
   * 👉 [**If / else** ](readme/README1.md)
   * 👉 [**Switch / case** ](readme/README2.md)
 
+<br>
 
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)_____________________________________________________________________________________________________________________ Ir para [  ON15-TET-S3-LP-II](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S3-LP-II)
 
 
