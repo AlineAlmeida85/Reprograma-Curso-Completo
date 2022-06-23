@@ -24,7 +24,7 @@ ___
 
 <div align="center">
 
-| [<><br>]() | [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) |  [<><br><h4></h4>]() | 
+| []() | [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) |  []() | 
 | :---: | :---: | :---: | 
 </div>
 
