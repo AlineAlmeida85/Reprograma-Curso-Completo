@@ -341,7 +341,9 @@ ___
   * 👉 [**WORKFLOWS** com **GIT**](readme/README11.md)
   * 👉 [**PULL REQUEST**, **FEATURE BRANCH** e **RESOLVENDO CONFLITOS**](readme/README12.md)
 
-[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo)________________________________________________________________________________________________________________ Ir para [ ON15-TET-S2-LP-I](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
+</br>
+
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo)_____________________________________________________________________________________________________________________ Ir para [ ON15-TET-S2-LP-I](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
 
 
 
