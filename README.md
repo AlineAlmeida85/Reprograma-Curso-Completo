@@ -24,7 +24,7 @@ ___
 
 <div align="center">
 
-| [<img src=""><br>]() | [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) |  [<img src=""><br><h4></h4>]() | 
+| [<><br>]() | [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) |  [<><br><h4></h4>]() | 
 | :---: | :---: | :---: | 
 </div>
 
@@ -94,7 +94,7 @@ ___
     <a href="https://github.com/AlineAlmeida85">Aline Almeida</a><h4>👋🏽 Entre em contato! 😊</h4>
   </h4><br>
 
-| [<img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" width=20><br>]() | [<img src="https://www.desktop.com.br/wp-content/uploads/2021/11/icon-whatsApp.png" width=35><br>]() |  [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=20><br>]() |
+| [<img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" width=20><br>]() | [<img src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" width=25><br>]() |  [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=20><br>]() |
 | :---: | :---: | :---: |
 
 <br>
