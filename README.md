@@ -4,7 +4,7 @@
 
 </div>
 
-### Todas as aulas da Reprograma Turma 15 em um só Repositório
+#### Todas as aulas da Reprograma Turma 15 em um só Repositório
 
 ## 🏁 Tópicos
  
@@ -20,18 +20,18 @@ ___
 
 ## 📌 Título
 
-### Reprograma Curso Completo
-[]()
+#### Reprograma Curso Completo
+
 <div align="center">
 
-| [<img src="" width=120><br>]() | [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) |  [<img src="" width=80><br><h4></h4>]() | 
+| [<img src=""><br>]() | [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) |  [<img src=""><br><h4></h4>]() | 
 | :---: | :---: | :---: | 
 </div>
 
 ___
 ## ✒️ Descrição
 
-### Todas as aulas da Reprograma Turma 15 em um só Repositório para que fique mais fácil buscar pelos conteúdos ja vistos e melhorar nossa performance e conhecimento!!
+#### Todas as aulas da Reprograma Turma 15 em um só Repositório para que fique mais fácil buscar pelos conteúdos ja vistos e melhorar nossa performance e conhecimento!!
 
 ___
 ## ⏱️ Status
@@ -40,7 +40,7 @@ ___
 
 ___
 ## 🔨 Funcionalidade 🛠️
-### Rever todos as aulas e lembras o que aprendemos em cada uma delas de forma detalhada e documentada. Em cada uma das pastas das aulas voce encontrará:
+#### Rever todos as aulas e lembras o que aprendemos em cada uma delas de forma detalhada e documentada. Em cada uma das pastas das aulas voce encontrará:
 
 - `1` ➜ `Links com conteúdos da aula`  ✔️
 - `2` ➜ `O que foi visto na Aula` ✔️
@@ -94,14 +94,14 @@ ___
     <a href="https://github.com/AlineAlmeida85">Aline Almeida</a><h4>👋🏽 Entre em contato! 😊</h4>
   </h4><br>
 
-| [<img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" width=20><br>]() | [<img src="https://www.desktop.com.br/wp-content/uploads/2021/11/icon-whatsApp.png" width=30><br>]() |  [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=20><br>]() |
+| [<img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" width=20><br>]() | [<img src="https://www.desktop.com.br/wp-content/uploads/2021/11/icon-whatsApp.png" width=35><br>]() |  [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=20><br>]() |
 | :---: | :---: | :---: |
 
 <br>
 <h4> Espero que te agrade! 🙏</h4>
 </div>
 
-__________________________________________________________________________________________________________ Ir para [ON15-TET-S1-GIT](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
+________________________________________________________________________________________________ Ir para [ON15-TET-S1-GIT](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
 
 
 
