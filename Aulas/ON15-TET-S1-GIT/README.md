@@ -112,7 +112,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Linhas de Comando ✔️</strong>
@@ -137,7 +136,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Comandos básicos ✔️</strong>
@@ -202,7 +200,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Git Conceitos Básicos ✔️</strong>
@@ -262,7 +259,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Comandos iniciais detalhado ✔️</strong>
@@ -291,7 +287,6 @@ ___
       </table>               
     </div>
 </details>
-
 <details>
     <summary>
       <strong>➝ Git, sobre forks ✔️</strong>
@@ -343,7 +338,7 @@ ___
 
 </br>
 
-[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo)_____________________________________________________________________________________________________________________ Ir para [ ON15-TET-S2-LP-I](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo)_____________________________________________________________________________________________________________________ Ir para [ ON15-TET-S2-LP-I](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S2-LP-I)
 
 
 
