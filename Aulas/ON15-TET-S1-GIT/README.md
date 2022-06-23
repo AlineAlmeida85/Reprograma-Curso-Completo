@@ -326,6 +326,7 @@ ___
 ___
 
 ##  🔨 Casos de como e quando usar os comandos certos 🛠️
+<br/>
 
   * 👉 [**CONFIGURAÇÃO** do **GIT**](readme/README6.md)
   * 👉 [**CRIAR** um repositório no **GITHUB**](readme/README1.md)
@@ -340,7 +341,7 @@ ___
   * 👉 [**WORKFLOWS** com **GIT**](readme/README11.md)
   * 👉 [**PULL REQUEST**, **FEATURE BRANCH** e **RESOLVENDO CONFLITOS**](readme/README12.md)
 
-[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo)________________________________________________________________________________________________ Ir para [ ON15-TET-S2-LP-I](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo)_______________________________________________________________________________________________________ Ir para [ ON15-TET-S2-LP-I](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
 
 
 
