@@ -21,23 +21,27 @@ ___
 
 ## 📌 Título
 
-#### Reprograma Curso Completo
-
 <div align="center">
+<h4>Curso Completo</h4>
 
 | [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) | 
 | :---: |
 </div>
+</br>
 
 ___
 ## ✒️ Descrição
 
 #### Todas as aulas da Reprograma Turma 15 em um só Repositório para que fique mais fácil buscar pelos conteúdos ja vistos e melhorar nossa performance e conhecimento!!
 
+</br>
+
 ___
 ## ⏱️ Status
 
 >  🚧 Em construção 🚧
+
+</br>
 
 ___
 ## 🔨 Funcionalidade 🛠️
@@ -47,6 +51,9 @@ ___
 - `2` ➜ `O que foi visto na Aula` ✔️
 - `3` ➜ `Explicação detalhada da aula` ✔️
 - `4` ➜ `Conteúdos adicionais e materiais de apoio` ✔️
+
+</br>
+
 ___
 
 ## Menu das Aulas  
@@ -69,9 +76,10 @@ ___
 ___
 ## ⚙️ Tudo o que Utilizamos
 
+<br>
 <div align="center">
 
-| [<img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" width=120><br><h4>Git</h4>](https://git-scm.com/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-3629449-3031512.png" width=80><br><h4>Javascript</h4>](https://www.javascript.com/) |  [<img src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc91.png" width=80><br><h4>Node.js</h4>](https://nodejs.org/en/) | [<img src="https://toppng.com//public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width=80><br><h4>MongoDb</h4>](https://www.mongodb.com/pt-br) | [<img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width=180><br><h4>GitHub</h4>](https://github.com/) |
+| [<img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" width=100><br><h4>Git</h4>](https://git-scm.com/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-3629449-3031512.png" width=80><br><h4>Javascript</h4>](https://www.javascript.com/) |  [<img src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc91.png" width=80><br><h4>Node.js</h4>](https://nodejs.org/en/) | [<img src="https://img2.gratispng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg" width=80><br><h4>MongoDb</h4>](https://www.mongodb.com/pt-br) | [<img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width=150><br><h4>GitHub</h4>](https://github.com/) |
 | :---: | :---: | :---: | :---: | :---: |
 </div>
 <br>
@@ -101,6 +109,7 @@ ___
 <br>
 <h4> Espero que te agrade! 🙏</h4>
 </div>
+<br>
 
 ________________________________________________________________________________________________ Ir para [ON15-TET-S1-GIT](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
 
