@@ -1,15 +1,19 @@
-# ON15-TET-S1-GIT 🤝
+# ON15-TET-S1-GIT 🤝 Turma 15 - Todas Em Tech - Semana 01 - GIT 👩‍💻
 
-## Turma 15 - Todas Em Tech - Semana 01 - GIT 👩‍💻
+<br>
+
 <div align="center">
 
-| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/33252729?v=4" width=115><br><h2>👩‍🏫  Amanda Silva ✍🏽</h2>](https://github.com/oskojess) |  [<br><sub></sub>]() |
-| :---: | :---: | :---: | 
+|  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/33252729?v=4" width=115><br><h2>👩‍🏫  Amanda Silva ✍🏽</h2>](https://github.com/oskojess) |
+| :---: | 
 </div>
-<details>
+<br>
+
+___
+<div>
   <summary>
-    <span>🔗 Links 🔗</span>
-  </summary>
+    <h2>🔗 Links 🔗</h2>
+  </summary><br/>
   <div>    
     * 📌<a href="https://www.youtube.com/watch?v=Z8w5KdLh170&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=2">Link da aula - Parte 1</a><br/>
     * 📌<a href="https://www.youtube.com/watch?v=OQzHf-odpOg&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=1">Link da aula - Parte 2</a><br/>
@@ -18,10 +22,12 @@
     * 📌<a href="https://classroom.google.com/u/0/c/NDc5MjQyMDUxNjYz/a/NDcxOTMxMjk2NzM5/details">Guia de instalação - Node.js</a><br/>
     * 📌<a href="https://drive.google.com/file/d/1Fn0IAz2JVFTEUQrAvZdWuSFByxfA9Op7/view">Introdução ao GIT</a><br/>
   </div>
-</details>
+</div>
+<br/>
 
 ___
 ## 🛠️ O que foi visto na Aula? 👀
+<br/>
 <details>
     <summary>
       <strong>➝ Introdução a Programação ✔️</strong>
@@ -315,8 +321,10 @@ ___
       </table>               
     </div>
 </details>
+</br>
 
 ___
+
 ##  🔨 Casos de como e quando usar os comandos certos 🛠️
 
   * 👉 [**CONFIGURAÇÃO** do **GIT**](readme/README6.md)
@@ -332,7 +340,7 @@ ___
   * 👉 [**WORKFLOWS** com **GIT**](readme/README11.md)
   * 👉 [**PULL REQUEST**, **FEATURE BRANCH** e **RESOLVENDO CONFLITOS**](readme/README12.md)
 
-
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo)________________________________________________________________________________________________ Ir para [ ON15-TET-S2-LP-I](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
 
 
 
