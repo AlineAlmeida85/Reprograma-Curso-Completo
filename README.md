@@ -1,10 +1,11 @@
 <div align="center">
 
   [<img src="https://images.typeform.com/images/vaUz6jYB6fbw/image/default" width=400>](https://www.reprograma.com.br) 
-
+  </br>
+  <h4>Todas as aulas da Reprograma Turma 15 em um só Repositório</h4>
 </div>
-
-#### Todas as aulas da Reprograma Turma 15 em um só Repositório
+</br>
+</br>
 
 ## 🏁 Tópicos
  
@@ -24,8 +25,8 @@ ___
 
 <div align="center">
 
-| []() | [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) |  []() | 
-| :---: | :---: | :---: | 
+| [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) | 
+| :---: |
 </div>
 
 ___
@@ -70,7 +71,7 @@ ___
 
 <div align="center">
 
-| [<img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" width=120><br><h4>Git</h4>](https://git-scm.com/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-3629449-3031512.png" width=80><br><h4>Javascript</h4>](https://www.javascript.com/) |  [<img src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc91.png" width=80><br><h4>Node.js</h4>](https://nodejs.org/en/) | [<img src="https://4.bp.blogspot.com/-X7UPkOQjQuQ/WuHLUEM7SDI/AAAAAAAAAOY/rXGXSOfPP2ckF_cSOC3C5d3B_BhIgNcxACLcBGAs/s1600/mongodb%2B%25282%2529.png" width=80><br><h4>MongoDb</h4>](https://www.mongodb.com/pt-br) | [<img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width=180><br><h4>GitHub</h4>](https://github.com/) |
+| [<img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" width=120><br><h4>Git</h4>](https://git-scm.com/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-3629449-3031512.png" width=80><br><h4>Javascript</h4>](https://www.javascript.com/) |  [<img src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc91.png" width=80><br><h4>Node.js</h4>](https://nodejs.org/en/) | [<img src="https://toppng.com//public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width=80><br><h4>MongoDb</h4>](https://www.mongodb.com/pt-br) | [<img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width=180><br><h4>GitHub</h4>](https://github.com/) |
 | :---: | :---: | :---: | :---: | :---: |
 </div>
 <br>
