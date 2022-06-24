@@ -65,7 +65,7 @@ ___
 
 </br>
 
-Voltar para [ON15-TET-S10-Revisao-API](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API)______________________________________________________________________________________ Ir para [ON15-TET-S12-BD](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S12-BD)
+Voltar para [ON15-TET-S10-Revisao-API](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API)_______________________________________________________________________________ Ir para [ON15-TET-S12-BD](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S12-BD)
 ## ✔️ `` 
 
 #### 
