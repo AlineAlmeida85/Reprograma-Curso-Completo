@@ -1,17 +1,17 @@
-# ON15-TET-S8-API-I 🤝
-
-## Turma 15 - Todas Em Tech - Semana 08 - API I 👩‍💻
+# ON15-TET-S8-API-I 🤝 Turma 15 - Todas Em Tech - Semana 08 - API I 👩‍💻
+</br>
 <div align="center">
 
-| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
-| :---: | :---: | :---: | 
+| [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |
+| :---: |
 
 </div>
-
-<details>
+</br>
+<div>
   <summary>
-    <span>🔗 Links 🔗</span>
+    <h2>🔗 Links 🔗</h2>
   </summary>
+  </br>
   <div>    
     * 📌<a href="https://www.youtube.com/watch?v=WnkKUz5gsV4&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=20&t=2247s">Link da aula - Parte 1</a>
     <br/>    
@@ -22,11 +22,12 @@
     * 📌<a href="https://github.com/reprograma/ON15-TET-S8-API-I/">Link do Repositório da Aula</a>
     <br/>
   </div>
-</details>
+</div>
+</br>
 
 ___
-
 ##  👀 O que foi visto na Aula? 🛠️
+</br>
 <details>
     <summary>
       <strong>➝ Introdução à API: GET + POST ✔️</strong>
@@ -71,10 +72,11 @@ ___
       </table>               
     </div>
 </details>
+</br>
 
 ___
-
 ##  🔨 Conteúdos da Aula detalhados 🛠️
+</br>
 
   * 👉 [**API, Web API e API REST**](readme/README1.md)
   * 👉 [**API Rest**](readme/README10.md)
@@ -94,7 +96,9 @@ ___
   * 👉 [**Nosso Primeiro Servidor Passo-a-Passo 3**](readme/README16.md)
   * 👉 [**Passo a Passo da Construção do Servidor Resumido**](readme/README9.md)
 
+</br>
 
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S4-LP-III)_____________________________________________________________________________________________________________ Ir para [ON15-TET-Reforco-JS](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS)
 
 
 

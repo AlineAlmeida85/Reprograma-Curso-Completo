@@ -1,17 +1,17 @@
-# ON15-TET-S9-API-II 🤝
-
-## Turma 15 - Todas Em Tech - Semana 09 - API II 👩‍💻
+# ON15-TET-S9-API-II 🤝 Turma 15 - Todas Em Tech - Semana 09 - API II 👩‍💻
+</br>
 <div align="center">
 
-| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) |  [<br><sub></sub>]() |
-| :---: | :---: | :---: | 
+| [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/49498707?v=4" width=115><br><h2>👩‍🏫 Ana Luiza Sampaio ✍🏽</h2>](https://github.com/analuizasampaio) | 
+| :---: | 
 
 </div>
-
-<details>
+</br>
+<div>
   <summary>
-    <span>🔗 Links 🔗</span>
+    <h2>🔗 Links 🔗</h2>
   </summary>
+  </br>
   <div>    
     * 📌<a href="https://www.youtube.com/watch?v=LbLVhgQhox4&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=24">Link da aula - Parte 1</a>
     <br/>    
@@ -22,10 +22,12 @@
     * 📌<a href="https://github.com/reprograma/ON15-TET-S9-API-II">Link do Repositório da Aula</a>
     <br/>
   </div>
-</details>
+</div>
+</br>
 
 ___
 ##  👀 O que foi visto na Aula? 🛠️
+</br>
 <details>
     <summary>
       <strong>➝ Introdução à API: DELETE + PUT + PATCH ✔️</strong>
@@ -50,11 +52,11 @@ ___
       </table>               
     </div>
 </details>
-
+</br>
 
 ___
-
 ##  🔨 Conteúdos da Aula detalhados 🛠️
+</br>
 
   * 👉 [**Revisão de Parâmetros**](readme/README1.md)
   * 👉 [**DELETE**](readme/README2.md)
@@ -65,3 +67,7 @@ ___
   * 👉 [**Arquitetura**](readme/README7.md)
   * 👉 [**Passo a Passo da Construção de um Servidor utilizando a Arquitetura MVC**](readme/README8.md)
   * 👉 [**Passo a Passo da Construção de um Servidor utilizando a Arquitetura MVC 2**](readme/README9.md)
+
+</br>
+
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S4-LP-III)_____________________________________________________________________________________________________________ Ir para [ON15-TET-S10-Revisao-API](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API)

@@ -1,17 +1,17 @@
-# ON15-TET-S11-PG-II 🤝
-
-## Turma 15 - Todas Em Tech - Semana 11 - Projeto Guiado II 👩‍💻
+# ON15-TET-S11-PG-II 🤝 Turma 15 - Todas Em Tech - Semana 11 - Projeto Guiado II 👩‍💻
+</br>
 <div align="center">
 
-| [<br><sub></sub>]() |  [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/80156310?v=4" width=115><br><h2>👩‍🏫 Hannah Freitas ✍🏽</h2>](https://github.com/HannahFreitas) |  [<br><sub></sub>]() |
-| :---: | :---: | :---: | 
+| [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/80156310?v=4" width=115><br><h2>👩‍🏫 Hannah Freitas ✍🏽</h2>](https://github.com/HannahFreitas) |  
+| :---: |
 
 </div>
-
-<details>
+</br>
+<div>
   <summary>
-    <span>🔗 Links 🔗</span>
+    <h2>🔗 Links 🔗</h2>
   </summary>
+  </br>
   <div>    
     * 📌<a href="https://www.youtube.com/watch?v=gqAlsW3_NiM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=30">Link da aula - Parte 1 e 2</a>
     <br/>
@@ -20,10 +20,12 @@
     * 📌<a href="https://github.com/reprograma/ON15-TET-S11-PG-II">Link do Repositório da Aula</a>
     <br/>
   </div>
-</details>
+</div>
+</br>
 
 ___
 ##  👀 O que foi visto na Aula? 🛠️
+</br>
 <details>
     <summary>
       <strong>➝ Como montar uma estrutura de lógica em código ✔️</strong>
@@ -51,15 +53,20 @@ ___
       </table>               
     </div>
 </details>
+</br>
 
 ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
+</br>
 
-  * 👉 [**** ]()
-  * 👉 [**** ]()
-  * 👉 [**** ]()
+  * 👉 [****]()
+  * 👉 [****]()
+  * 👉 [****]()
 
-## ✔️ **** 
+</br>
+
+[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S4-LP-III)_____________________________________________________________________________________________________________ Ir para [ON15-TET-S11-PG-II](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S11-PG-II)
+## ✔️ `` 
 
 #### 
 <p align="center">
