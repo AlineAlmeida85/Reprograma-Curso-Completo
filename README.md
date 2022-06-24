@@ -59,20 +59,20 @@ ___
 ## Menu das Aulas  
   <div>
     <h4>Turma 15 - Todas Em Tech</h4><br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT" target="blank"><strong style=color:grey>ON15-TET-S1-GIT</strong> ➜ GIT e GitHub</a><br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S2-LP-I"><strong style=color:grey>ON15-TET-S2-LP-I</strong> ➜ Lógica de Programação I</a><br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S3-LP-II"><strong style=color:grey>ON15-TET-S3-LP-II</strong> ➜ Lógica de Programação II</a><br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S4-LP-III"><strong style=color:grey>ON15-TET-S4-LP-III</strong> ➜ Lógica de Programação III</a><br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S5-PG-I"><strong style=color:grey>ON15-TET-S5-PG-I</strong> ➜ Projeto Guiado I</a><br/> 
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S6-Nodejs"><strong style=color:grey>ON15-TET-S6-Nodejs</strong> ➜ Introdução ao Node.js</a><br/> 
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S7-ASSINCJS"><strong style=color:grey>ON15-TET-S7-ASSINCJS</strong> ➜ Assincronismo</a><br/> 
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S8-API-I"><strong style=color:grey>ON15-TET-S8-API-I</strong> ➜ Construção de API I</a><br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS"><strong style=color:grey>ON15-TET-Reforco-JS</strong> ➜ Aula de Reforço - Javascript</a><br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S9-API-II"><strong style=color:grey>ON15-TET-S9-API-II</strong> ➜ Construção de API II</a><br/>  
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API"><strong style=color:grey>ON15-TET-S10-Revisao-API</strong> ➜ Revisão de construção de API</a><br/> 
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S11-PG-II"><strong style=color:grey>ON15-TET-S11-PG-II</strong> ➜ Projeto Guiado II</a><br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S12-BD"><strong style=color:grey>ON15-TET-S12-BD</strong> ➜ Banco de Dados III</a><br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S13-PG-III"><strong style=color:grey>ON15-TET-S13-PG-III</strong> ➜ Projeto Guiado III</a><br/><br/>      
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT" target="blank"><strong style=color:grey>ON15-TET-S1-GIT</strong> ➜</a> GIT e GitHub<br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S2-LP-I"><strong style=color:grey>ON15-TET-S2-LP-I</strong> ➜</a> Lógica de Programação I<br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S3-LP-II"><strong style=color:grey>ON15-TET-S3-LP-II</strong> ➜</a> Lógica de Programação II<br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S4-LP-III"><strong style=color:grey>ON15-TET-S4-LP-III</strong> ➜</a> Lógica de Programação III<br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S5-PG-I"><strong style=color:grey>ON15-TET-S5-PG-I</strong> ➜</a> Projeto Guiado I<br/> 
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S6-Nodejs"><strong style=color:grey>ON15-TET-S6-Nodejs</strong> ➜</a> Introdução ao Node.js<br/> 
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S7-ASSINCJS"><strong style=color:grey>ON15-TET-S7-ASSINCJS</strong> ➜</a> Assincronismo<br/> 
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S8-API-I"><strong style=color:grey>ON15-TET-S8-API-I</strong> ➜</a> Construção de API I<br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS"><strong style=color:grey>ON15-TET-Reforco-JS</strong> ➜</a> Aula de Reforço - Javascript<br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S9-API-II"><strong style=color:grey>ON15-TET-S9-API-II</strong> ➜</a> Construção de API II<br/>  
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API"><strong style=color:grey>ON15-TET-S10-Revisao-API</strong> ➜</a> Revisão de construção de API<br/> 
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S11-PG-II"><strong style=color:grey>ON15-TET-S11-PG-II</strong> ➜</a> Projeto Guiado II<br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S12-BD"><strong style=color:grey>ON15-TET-S12-BD</strong> ➜</a> Banco de Dados III<br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S13-PG-III"><strong style=color:grey>ON15-TET-S13-PG-III</strong> ➜</a> Projeto Guiado III<br/><br/>      
   </div>
 
 ___

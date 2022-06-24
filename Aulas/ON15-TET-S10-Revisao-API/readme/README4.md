@@ -65,6 +65,7 @@ try {
         }
     response.status(200).json(findEbook)
     } catch (error) {
+        console.error(error)
         response.status(404).json({
             message: "Poxa... Desculpe! Ainda não temos esse Livro",
             details: error.mensage
@@ -72,6 +73,38 @@ try {
     }
 }
 ```
-#### 
+#### A `message`: É uma mensagem bonitinha. A `details` é a mensagem técnica. E por que o `console.error(error)`? Porque voce precisa saber o porque que o código está quebrando, podemos transformar iso em estatística. Agora vamos expostar essa função:
+```javascript
+    module.exports = {
+        allFindEbooks,
+        findById
+    }
+```
+#### E agora vamos nas rotas criar um `endPoint` para obter um livro, `router.get`, nesse caso não teremos um path, ele será vazio e vamos apenas definir o endPoint que nesse caso será o id `("/{id}")`.
+```javascript
+    router.get("/:id")
+```
+#### E agora vamos chamar a função:
+```javascript
+    router.get("/:id", controller.findById)
+```
+#### Agora vamos no `Postman` testar, nesse caso busquei pelo `id 1`:
+<p align="center">
+  <img alt="foto" title="foto" src="../img/foto14.png"/>
+</p>
+
+#### E foi exatamente ele que apareceu, ou seja, está funcionando ossa nova rota. Agora vamos buscar por um `id` que não exista, o `0`:
+<p align="center">
+  <img alt="foto" title="foto" src="../img/foto15.png"/>
+</p>
+
+#### Ele mostrou o erro que configuramos. Se voce for no terminal, ele vai mostrar a linha de código que quebrou...
+<p align="center">
+  <img alt="foto" title="foto" src="../img/foto16.png"/>
+</p>
+
+#### E se voce clicar na linha de erro, ele te mostra no VSCode onde está essa linha que quebrou.
+
+
 
 

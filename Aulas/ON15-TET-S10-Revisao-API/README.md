@@ -103,6 +103,7 @@ ___
   * 👉 [**Revisão Detalhada da Aula 1**](readme/README2.md)
   * 👉 [**Revisão Detalhada da Aula 2**](readme/README3.md)
   * 👉 [**Revisão Detalhada da Aula 3**](readme/README4.md)
+  * 👉 [**Revisão Detalhada da Aula 4**](readme/README5.md)
 
 </br>
 
