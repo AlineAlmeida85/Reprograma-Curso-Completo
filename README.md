@@ -65,7 +65,7 @@ ___
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S4-LP-III"><strong style=color:grey>ON15-TET-S4-LP-III</strong> ➜ Lógica de Programação III</a><br/>
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S5-PG-I"><strong style=color:grey>ON15-TET-S5-PG-I</strong> ➜ Projeto Guiado I</a><br/> 
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S6-Nodejs"><strong style=color:grey>ON15-TET-S6-Nodejs</strong> ➜ Introdução ao Node.js</a><br/> 
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S7-ASSINCJS"><strong style=color:grey>ON15-TET-S7-ASSINCJS</strong> ➜ Assincronismo</a><br/> 
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S7-ASSINCJS"><spam style=color:grey>ON15-TET-S7-ASSINCJS</spam> ➜ Assincronismo</a><br/> 
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S8-API-I"><strong style=color:grey>ON15-TET-S8-API-I</strong> ➜ Construção de API I</a><br/>
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS"><strong style=color:grey>ON15-TET-Reforco-JS</strong> ➜ Aula de Reforço - Javascript</a><br/>
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S9-API-II"><strong style=color:grey>ON15-TET-S9-API-II</strong> ➜ Construção de API II</a><br/>  
