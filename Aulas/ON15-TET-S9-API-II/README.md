@@ -70,4 +70,4 @@ ___
 
 </br>
 
-Voltar Para [ON15-TET-Reforco-JS](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS)____________________________________________________________________________________________ Ir para [ON15-TET-S10-Revisao-API](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API)
+Voltar Para [ON15-TET-Reforco-JS](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS)_________________________________________________________________________________ Ir para [ON15-TET-S10-Revisao-API](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API)

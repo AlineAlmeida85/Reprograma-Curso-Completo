@@ -98,7 +98,7 @@ ___
 
 </br>
 
-Voltar Para [ON15-TET-S7-ASSINCJS](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S7-ASSINCJS)______________________________________________________________________________________ Ir para [ON15-TET-Reforco-JS](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS)
+Voltar Para [ON15-TET-S7-ASSINCJS](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S7-ASSINCJS)___________________________________________________________________________ Ir para [ON15-TET-Reforco-JS](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Reforco-JS)
 
 
 
