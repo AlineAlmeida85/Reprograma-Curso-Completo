@@ -231,6 +231,6 @@ ___
 
 <br>
 
-[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)_____________________________________________________________________________________________________________________ Ir para [  ON15-TET-S3-LP-II](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S3-LP-II)
+[Voltar Para ON15-TET-S1-GIT](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)_____________________________________________________________________________________________________________________ Ir para [  ON15-TET-S3-LP-II](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S3-LP-II)
 
 
