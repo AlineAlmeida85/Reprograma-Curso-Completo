@@ -5,6 +5,7 @@
 | [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/89533112?v=4" width=115><br><h2>👩‍🏫 Bea Ramerindo ✍🏽</h2>](https://github.com/beatrizramerindo) | 
 | :---: | 
 
+
 </div>
 </br>
 <div>
@@ -13,11 +14,11 @@
   </summary>
   </br>
   <div>    
-    * 📌<a href="#">Link da aula - Parte 1</a>
+    * 📌<a href="https://www.youtube.com/watch?v=mQgQTn_sLWk&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=32">Link da aula - Parte 1</a>
     <br/>    
-    * 📌<a href="#">Link da aula - Parte 2</a>
+    * 📌<a href="https://www.youtube.com/watch?v=ofTwArp2-wU&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=33">Link da aula - Parte 2</a>
     <br/>
-    * 📌<a href="#">Link da aula - Reforço</a>
+    * 📌<a href="https://www.youtube.com/watch?v=xz0Cko3hqAY&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=34">Link da aula - Reforço</a>
     <br/>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S12-BD">Link do Repositório da Aula</a>
     <br/>
@@ -73,15 +74,10 @@ ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 </br>
 
-  * 👉 [****](readme/README.md)
-  * 👉 [****](readme/README.md)
-  * 👉 [****](readme/README.md)
-  * 👉 [****](readme/README.md)
-  * 👉 [****](readme/README.md)
-  * 👉 [****](readme/README.md)
-  * 👉 [****](readme/README.md)
-  * 👉 [****](readme/README.md)
-  * 👉 [****](readme/README.md)
+  * 👉 [**Construindo uma API sem MongoDB**](readme/README1.md)
+  * 👉 [**Construindo uma API com MongoDB**](readme/README2.md)
+  * 👉 [**Resumo do App com MongoDB Completo da Aula**](readme/README3.md)
+
 
 </br>
 

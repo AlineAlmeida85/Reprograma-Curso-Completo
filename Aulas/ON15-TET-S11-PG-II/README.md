@@ -59,31 +59,10 @@ ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 </br>
 
-  * 👉 [**Criando um Projeto**](readme/README1.md)
-  * 👉 [****]()
-  * 👉 [****]()
+  * 👉 [**Resumo da Aula**](readme/README1.md)
+
 
 </br>
 
 Voltar para [ON15-TET-S10-Revisao-API](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API)_______________________________________________________________________________ Ir para [ON15-TET-S12-BD](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S12-BD)
 
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-```git
-git clone 
-```

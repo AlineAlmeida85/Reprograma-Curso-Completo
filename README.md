@@ -4,7 +4,6 @@
   </br>
   <h4>Todas as aulas da Reprograma Turma 15 em um só Repositório</h4>
 
-  ![](nome-de-giphy.gif)
 </div>
 </br>
 </br>
