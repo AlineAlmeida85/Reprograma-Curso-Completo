@@ -22,7 +22,7 @@ ___
 
     npm i cors
 
-    npm i dotenv
+    npm i dotenv-safe
 
     npm i mongoose
 
