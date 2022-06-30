@@ -98,28 +98,3 @@ ___
 </br>
 
 Voltar Para [ON15-TET-S8-API-I](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S8-API-I)______________________________________________________________________________________ Ir para [ON15-TET-S9-API-II](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S9-API-II)
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-<p align="center">
-  <img alt="foto" title="foto" src=""/>
-</p>
-
-#### 
-```git
-git clone 
-```
-</br>
-</br>
-</br>
-
-[Voltar](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo)__________________________________________________________________________________________________________[Próximo](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S1-GIT)
