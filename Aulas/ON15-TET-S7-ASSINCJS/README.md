@@ -13,13 +13,7 @@
     <h2>🔗 Links 🔗</h2>
   </summary>
   </br>
- <div>    
-    * 📌<a href="https://www.youtube.com/watch?v=z5TSsTQ376Q&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=17">Link da aula - Parte 1</a>
-    <br/>    
-    * 📌<a href="https://www.youtube.com/watch?v=QccM3p2hmAU&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=18">Link da aula - Parte 2</a>
-    <br/>
-    * 📌<a href="https://www.youtube.com/watch?v=81uIcnmg7xM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=19">Link da aula - Reforço</a>
-    <br/>
+ <div>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S7-ASSINCJS">Link do Repositório da Aula</a>
     <br/>
   </div>

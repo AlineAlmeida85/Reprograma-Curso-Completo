@@ -13,13 +13,7 @@
     <h2>🔗 Links 🔗</h2>
   </summary>
   </br>
-  <div>    
-    * 📌<a href="https://www.youtube.com/watch?v=mQgQTn_sLWk&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=32">Link da aula - Parte 1</a>
-    <br/>    
-    * 📌<a href="https://www.youtube.com/watch?v=ofTwArp2-wU&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=33">Link da aula - Parte 2</a>
-    <br/>
-    * 📌<a href="https://www.youtube.com/watch?v=xz0Cko3hqAY&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=34">Link da aula - Reforço</a>
-    <br/>
+  <div>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S12-BD">Link do Repositório da Aula</a>
     <br/>
   </div>

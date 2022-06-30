@@ -15,9 +15,6 @@ ___
     <h2>🔗 Links 🔗</h2>
   </summary><br/>
   <div>    
-    * 📌<a href="https://www.youtube.com/watch?v=Z8w5KdLh170&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=2">Link da aula - Parte 1</a><br/>
-    * 📌<a href="https://www.youtube.com/watch?v=OQzHf-odpOg&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=1">Link da aula - Parte 2</a><br/>
-    * 📌<a href="https://www.youtube.com/watch?v=3AXFw8f4J0Q&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=3">Link da aula - Reforço</a><br/>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S1-GIT">Link do Repositório da Aula</a><br/>
     * 📌<a href="https://classroom.google.com/u/0/c/NDc5MjQyMDUxNjYz/a/NDcxOTMxMjk2NzM5/details">Guia de instalação - Node.js</a><br/>
     * 📌<a href="https://drive.google.com/file/d/1Fn0IAz2JVFTEUQrAvZdWuSFByxfA9Op7/view">Introdução ao GIT</a><br/>

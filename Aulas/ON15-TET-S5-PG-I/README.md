@@ -13,10 +13,7 @@
     <h2>🔗 Links 🔗</h2>
   </summary>
   <br>
-  <div>    
-    * 📌<a href="https://www.youtube.com/watch?v=qHfuYBNP_yk&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=12">Link da aula - Parte 1</a><br/>
-    * 📌<a href="https://www.youtube.com/watch?v=QeEdbi3_LrM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=14&t=2226s">Link da aula - Parte 2</a><br/>
-    * 📌<a href="https://www.youtube.com/watch?v=IyPX_sD7hEw&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=14">Link da aula - Reforço</a><br/>
+  <div>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S5-PG-I">Link do Repositório da Aula</a><br/>
   </div>
 </div>

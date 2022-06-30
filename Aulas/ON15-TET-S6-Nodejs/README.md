@@ -14,11 +14,7 @@
     <h2>🔗 Links 🔗</h2>
   </summary>
   </br>
-  <div>    
-    * 📌<a href="https://www.youtube.com/watch?v=QJQc-eGBO-k&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=16">Link da aula - Parte 1</a>
-    <br/>    
-    * 📌<a href="https://www.youtube.com/watch?v=89NnVn7aBJY&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=16">Link da aula - Reforço</a>
-    <br/>
+  <div>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S6-Nodejs">Link do Repositório da Aula</a>
     <br/>
   </div>

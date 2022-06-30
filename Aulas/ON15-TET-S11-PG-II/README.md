@@ -12,11 +12,7 @@
     <h2>🔗 Links 🔗</h2>
   </summary>
   </br>
-  <div>    
-    * 📌<a href="https://www.youtube.com/watch?v=gqAlsW3_NiM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=30">Link da aula - Parte 1 e 2</a>
-    <br/>
-    * 📌<a href="https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw">Link da aula - Reforço</a>
-    <br/>
+  <div>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S11-PG-II">Link do Repositório da Aula</a>
     <br/>
   </div>

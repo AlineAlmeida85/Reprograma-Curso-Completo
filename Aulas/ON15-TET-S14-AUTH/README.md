@@ -1,4 +1,4 @@
-# ON15-TET-S13-PG-III 🤝 Turma 15 - Todas Em Tech - Semana 13 - Projeto Guiado III 👩‍💻
+# ON15-TET-S14-AUTH 🤝 Turma 15 - Todas Em Tech - Semana 14 - Autenticação 👩‍💻
 </br>
 <div align="center">
 
@@ -13,7 +13,7 @@
   </summary>
   </br>
   <div>
-    * 📌<a href="https://github.com/reprograma/ON15-TET-S13-PG-III">Link do Repositório da Aula</a>
+    * 📌<a href="https://github.com/reprograma/ON15-TET-S14-AUTH">Link do Repositório da Aula</a>
     <br/>
   </div>
 </div>
@@ -24,38 +24,38 @@ ___
 </br>
 <details>
     <summary>
-      <strong>➝ Leitura de todas as notas cadastradas no meu banco dados ✔️</strong>
+      <strong>➝ Autenticação ✔️</strong>
     </summary>    
     <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
-          <td></td>                
+          <td>Preparar o ambiente</td>                
           <td align="center">✅</td>
         </tr>
         <tr> 
           <td align="center">👉</td>
-          <td></td>                
+          <td>API com Node.js e Express</td>                
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                
+          <td>Autenticação</td>                
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                
+          <td>Fluxo autenticação</td>                
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                
+          <td>Criar rota para criação de users</td>                
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                
+          <td>Criptografar senha dos users</td>                
           <td align="center">✅</td>
         </tr>	
       </table>               
@@ -67,15 +67,15 @@ ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 </br>
 
-  * 👉 [**toDo**](readme/README1.md)
-  * 👉 [**Criando um Projeto Guiado - CRUD - Comandos Básicos**](readme/README2.md)
-  * 👉 [**Criando um Projeto Guiado - CRUD - Criando o GET**](readme/README3.md)
-  * 👉 [**Criando um Projeto Guiado - CRUD - Criando o POST**](readme/README4.md)
-  * 👉 [**Criando um Projeto Guiado - CRUD - Criando o PUT**](readme/README5.md)
-  * 👉 [**Criando um Projeto Guiado - CRUD - Criando o DELETE**](readme/README6.md)
-  * 👉 [**CRUD Completo Resumido**](readme/README7.md)
+  * 👉 [****](readme/README1.md)
+  * 👉 [****](readme/README2.md)
+  * 👉 [****](readme/README3.md)
+  * 👉 [****](readme/README4.md)
+  * 👉 [****](readme/README5.md)
+  * 👉 [****](readme/README6.md)
+  * 👉 [****](readme/README7.md)
 
 
 </br>
 
-Voltar Para [ON15-TET-S12-BD](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S12-BD)______________________________________________________________________________ Ir para [ON15-TET-S14]()
+Voltar Para [ON15-TET-S13-PG-III](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S13-PG-III)______________________________________________________________________________ Ir para [ON15-TET-S15]()

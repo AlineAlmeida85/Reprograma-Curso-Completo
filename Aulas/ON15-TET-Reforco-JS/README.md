@@ -9,9 +9,7 @@
 
 ## 🔗 Links 🔗
 </br>  
-  <div>    
-    * 📌<a href="https://www.youtube.com/watch?v=i0f9Fo-eBmo&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=23&t=66s">Link da aula ▶️</a>
-    <br/>
+  <div>
     * 📌<a href="https://github.com/reprograma/ON15-TET-Reforco-JS">Link do Repositório da Aula 🗃</a>
     <br/>
   </div>

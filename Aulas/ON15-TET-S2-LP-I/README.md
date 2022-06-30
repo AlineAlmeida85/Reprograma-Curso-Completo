@@ -13,9 +13,7 @@
     <h2>🔗 Links 🔗</h2>
   </summary>
   </br>
-  <div>    
-    * 📌<a href="https://www.youtube.com/watch?v=WoA9SJtQSyk&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=4">Link da aula - Parte 1</a><br/>    
-    * 📌<a href="https://www.youtube.com/watch?v=fySKem9jpx0&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=5">Link da aula - Reforço</a><br/>
+  <div>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S2-LP-I">Link do Repositório da Aula</a><br/>
   </div>
 </div>

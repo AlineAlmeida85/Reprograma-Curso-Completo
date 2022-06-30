@@ -12,13 +12,7 @@
     <h2>🔗 Links 🔗</h2>
   </summary>
   </br>
-  <div>    
-    * 📌<a href="https://www.youtube.com/watch?v=LbLVhgQhox4&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=24">Link da aula - Parte 1</a>
-    <br/>    
-    * 📌<a href="https://www.youtube.com/watch?v=I-iwTDuIzqM&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=25">Link da aula - Parte 2</a>
-    <br/>
-    * 📌<a href="https://www.youtube.com/watch?v=Q0jgct4_HjI&list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw&index=26">Link da aula - Reforço</a>
-    <br/>
+  <div>
     * 📌<a href="https://github.com/reprograma/ON15-TET-S9-API-II">Link do Repositório da Aula</a>
     <br/>
   </div>

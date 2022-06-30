@@ -18,17 +18,6 @@
   * 👉 [Tudo o que Aprendemos](#⚙️-tudo-o-que-aprendemos)
   * 👉 [Autor](#🏆-autor)
 
-___
-
-## 📌 Título
-
-<div align="center">
-<h4>Curso Completo</h4>
-
-| [<img src="https://pnggrid.com/wp-content/uploads/2021/04/youtube-1024x841.png" width=90><h4>Playlist do curso</h4>](https://www.youtube.com/playlist?list=PLymAQGA_lVagCUqYtEgogYohW4KJil1Qw) | 
-| :---: |
-</div>
-</br>
 
 ___
 ## ✒️ Descrição
@@ -48,7 +37,7 @@ ___
 ## 🔨 Funcionalidade 🛠️
 #### Rever todos as aulas e lembras o que aprendemos em cada uma delas de forma detalhada e documentada. Em cada uma das pastas das aulas voce encontrará:
 
-- `1` ➜ `Links com conteúdos da aula`  ✔️
+- `1` ➜ `Links com materiais da aula`  ✔️
 - `2` ➜ `O que foi visto na Aula` ✔️
 - `3` ➜ `Explicação detalhada da aula` ✔️
 - `4` ➜ `Conteúdos adicionais e materiais de apoio` ✔️
@@ -73,7 +62,8 @@ ___
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S10-Revisao-API"><strong style=color:grey>ON15-TET-S10-Revisao-API</strong> ➜</a> Revisão de construção de API<br/> 
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S11-PG-II"><strong style=color:grey>ON15-TET-S11-PG-II</strong> ➜</a> Projeto Guiado II<br/>
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S12-BD"><strong style=color:grey>ON15-TET-S12-BD</strong> ➜</a> Banco de Dados III<br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S13-PG-III"><strong style=color:grey>ON15-TET-S13-PG-III</strong> ➜</a> Projeto Guiado III<br/><br/>      
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S13-PG-III"><strong style=color:grey>ON15-TET-S13-PG-III</strong> ➜</a> Projeto Guiado III<br/>
+    ⚫️ <a href="#"><strong style=color:grey>ON15-TET-S14-AUTH</strong> ➜</a> Autenticação<br/><br/>      
   </div>
 
 ___
