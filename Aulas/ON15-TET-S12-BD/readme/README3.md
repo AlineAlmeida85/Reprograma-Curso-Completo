@@ -144,7 +144,6 @@ module.exports = {
 
 ## A Arquitetura:
 ```
-
     ReprogramaMusic  
     └─ api_com_mongo           
          ├─ src                       

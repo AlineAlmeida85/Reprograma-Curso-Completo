@@ -67,8 +67,8 @@ ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 </br>
 
-  * 👉 [****](readme/README1.md)
-  * 👉 [****](readme/README2.md)
+  * 👉 [**Algoritmos de Hashes**](readme/README1.md)
+  * 👉 [**Criando um Projeto**](readme/README2.md)
   * 👉 [****](readme/README3.md)
   * 👉 [****](readme/README4.md)
   * 👉 [****](readme/README5.md)
