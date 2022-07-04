@@ -2,7 +2,7 @@
 </br>
 <div align="center">
 
-| [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/41296983?v=4" width=115><br><h2>👩‍🏫 Paula Allemand ✍🏽</h2>](https://github.com/beatrizramerindo) | 
+| [<h2>Professora</h2><img src="https://avatars.githubusercontent.com/u/41296983?v=4" width=115><br><h2>👩‍🏫 Paula Allemand ✍🏽</h2>](https://github.com/itsalle) | 
 | :---: | 
 
 </div>
