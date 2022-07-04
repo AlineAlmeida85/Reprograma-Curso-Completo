@@ -63,7 +63,8 @@ ___
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S11-PG-II"><strong style=color:grey>ON15-TET-S11-PG-II</strong> ➜</a> Projeto Guiado II<br/>
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S12-BD"><strong style=color:grey>ON15-TET-S12-BD</strong> ➜</a> Banco de Dados III<br/>
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S13-PG-III"><strong style=color:grey>ON15-TET-S13-PG-III</strong> ➜</a> Projeto Guiado III<br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S14-AUTH"><strong style=color:grey>ON15-TET-S14-AUTH</strong> ➜</a> Autenticação<br/><br/>      
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S14-AUTH"><strong style=color:grey>ON15-TET-S14-AUTH</strong> ➜</a> Autenticação<br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S13-PG-III"><strong style=color:grey>ON15-TET-S15-TESTES</strong> ➜</a> Automações de Testes<br/><br/>      
   </div>
 
 ___

@@ -1,4 +1,4 @@
-# ON15-TET-S14-AUTH 🤝 Turma 15 - Todas Em Tech - Semana 14 - Autenticação 👩‍💻
+# ON15-TET-S15-TESTES 🤝 Turma 15 - Todas Em Tech - Semana 15 - Automações de Testes 👩‍💻
 </br>
 <div align="center">
 
@@ -13,7 +13,7 @@
   </summary>
   </br>
   <div>
-    * 📌<a href="https://github.com/reprograma/ON15-TET-S14-AUTH">Link do Repositório da Aula</a>
+    * 📌<a href="https://github.com/reprograma/ON15-TET-S15-TESTES">Link do Repositório da Aula</a>
     <br/>
   </div>
 </div>
@@ -24,38 +24,38 @@ ___
 </br>
 <details>
     <summary>
-      <strong>➝ Autenticação ✔️</strong>
+      <strong>➝  ✔️</strong>
     </summary>    
     <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
-          <td>Preparar o ambiente</td>                
+          <td></td>                
           <td align="center">✅</td>
         </tr>
         <tr> 
           <td align="center">👉</td>
-          <td>API com Node.js e Express</td>                
+          <td></td>                
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td>Autenticação</td>                
+          <td></td>                 
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td>Fluxo autenticação</td>                
+          <td></td>                   
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td>Criar rota para criação de users</td>                
+          <td></td>                   
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td>Criptografar senha dos users</td>                
+          <td></td>                   
           <td align="center">✅</td>
         </tr>	
       </table>               
@@ -67,11 +67,11 @@ ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 </br>
 
-  * 👉 [**Algoritmos de Hashes**](readme/README1.md)
-  * 👉 [**Criando um Projeto**](readme/README2.md)
+  * 👉 [****](readme/README1.md)
+  * 👉 [****](readme/README2.md)
 
 
 
 </br>
 
-Voltar Para [ON15-TET-S13-PG-III](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S13-PG-III)______________________________________________________________________________ Ir para [ON15-TET-S15]()
+Voltar Para [ON15-TET-S14-AUTH](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S14-AUTH)______________________________________________________________________________ Ir para [ON15-TET-S16]()
