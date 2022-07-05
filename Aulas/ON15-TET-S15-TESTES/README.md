@@ -24,40 +24,35 @@ ___
 </br>
 <details>
     <summary>
-      <strong>➝  ✔️</strong>
+      <strong>➝ O que é Automação de Testes? ✔️</strong>
     </summary>    
     <div align="left">        
       <table border=1>             
         <tr>
           <td align="center">👉</td>                
-          <td></td>                
+          <td>Tipos de Testes</td>                
           <td align="center">✅</td>
         </tr>
         <tr> 
           <td align="center">👉</td>
-          <td></td>                
+          <td>Benefícios da Automação de Testes</td>                
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                 
+          <td>Jest e Supertest</td>                 
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                   
+          <td>Meu Primeiro Teste</td>                   
           <td align="center">✅</td>
         </tr>
         <tr>    
           <td align="center">👉</td>            
-          <td></td>                   
+          <td>Prática</td>                   
           <td align="center">✅</td>
-        </tr>
-        <tr>    
-          <td align="center">👉</td>            
-          <td></td>                   
-          <td align="center">✅</td>
-        </tr>	
+        </tr>        	
       </table>               
     </div>
 </details>
@@ -67,7 +62,7 @@ ___
 ##  🔨 Conteúdos da Aula detalhados 🛠️
 </br>
 
-  * 👉 [****](readme/README1.md)
+  * 👉 [**O que é Automação de Testes?**](readme/README1.md)
   * 👉 [****](readme/README2.md)
 
 
