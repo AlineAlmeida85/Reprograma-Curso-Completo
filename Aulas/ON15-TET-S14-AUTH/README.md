@@ -20,7 +20,7 @@
 </br>
 
 ___
-##  👀 O que foi visto na Aula? 🛠️
+##  👀 O que foi Visto na Aula? 🛠️
 </br>
 <details>
     <summary>
@@ -64,11 +64,13 @@ ___
 </br>
 
 ___
-##  🔨 Conteúdos da Aula detalhados 🛠️
+##  🔨 Conteúdos da Aula Detalhados 🛠️
 </br>
 
   * 👉 [**Algoritmos de Hashes**](readme/README1.md)
   * 👉 [**Criando um Projeto**](readme/README2.md)
+  * 👉 [**Resumo do Projeto Completo**](readme/README3.md)
+  * 👉 [**Conteúdo Extra - middlewares**](readme/README4.md)
 
 
 
