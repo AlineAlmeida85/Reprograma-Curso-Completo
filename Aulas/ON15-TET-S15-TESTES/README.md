@@ -70,4 +70,4 @@ ___
 
 </br>
 
-Voltar Para [ON15-TET-S14-AUTH](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S14-AUTH)______________________________________________________________________________ Ir para [ON15-TET-Aula de Revisão]()
+Voltar Para [ON15-TET-S14-AUTH](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S14-AUTH)______________________________________________________________________________ Ir para [ON15-TET-Aula de Revisão](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Revis%C3%A3o)
