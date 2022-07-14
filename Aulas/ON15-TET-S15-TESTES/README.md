@@ -63,10 +63,11 @@ ___
 </br>
 
   * 👉 [**O que é Automação de Testes?**](readme/README1.md)
-  * 👉 [****](readme/README2.md)
+  * 👉 [**Meu Primeiro Teste com Jest**](readme/README2.md)
+  * 👉 [**Meu Segundo Teste**](readme/README3.md)
 
 
 
 </br>
 
-Voltar Para [ON15-TET-S14-AUTH](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S14-AUTH)______________________________________________________________________________ Ir para [ON15-TET-S16]()
+Voltar Para [ON15-TET-S14-AUTH](https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S14-AUTH)______________________________________________________________________________ Ir para [ON15-TET-Aula de Revisão]()
