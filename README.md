@@ -64,8 +64,7 @@ ___
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S12-BD"><strong>ON15-TET-S12-BD</strong> ➜</a> Banco de Dados III<br/>
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S13-PG-III"><strong>ON15-TET-S13-PG-III</strong> ➜</a> Projeto Guiado III<br/>
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S14-AUTH"><strong>ON15-TET-S14-AUTH</strong> ➜</a> Autenticação<br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S15-TESTES"><strong>ON15-TET-S15-TESTES</strong> ➜</a> Automações de Testes<br/>
-    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-Revis%C3%A3o"><strong>ON15-TET-Revisão-</strong> ➜</a> Javascript, API, Autenticação <br/>
+    ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-S15-TESTES"><strong>ON15-TET-S15-TESTES</strong> ➜</a> Automações de Testes<br/>    
     ⚫️ <a href="https://github.com/AlineAlmeida85/Reprograma-Curso-Completo/tree/main/Aulas/ON15-TET-PJ-LIVRE"><strong>ON15-TET-PJ-LIVRE</strong> ➜</a> Semana 17 e 18: Projeto Livre<br/>
     ⚫️ <a href=""><strong>ON15-TET-S18-</strong> ➜</a><br/><br/>      
   </div>
