@@ -65,8 +65,11 @@ ___
   * 👉 [**O que é Automação de Testes?**](readme/README1.md)
   * 👉 [**Meu Primeiro Teste com Jest**](readme/README2.md)
   * 👉 [**Meu Segundo Teste**](readme/README3.md)
-
-
+  * 👉 [**Passo a Passo Teste da Rota GET**](readme/README4.md)
+  * 👉 [**Passo a Passo Teste da Rota POST**](readme/README5.md)
+  * 👉 [**Passo a Passo Teste da Rota PATCH**](readme/README6.md)
+  * 👉 [**Passo a Passo Teste da Rota DELETE**](readme/README7.md)
+  * 👉 [**Passo a Passo Completo Resumido**](readme/README8.md)
 
 </br>
 
